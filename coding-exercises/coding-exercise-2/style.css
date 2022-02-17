@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: orange;
+  font-family: fantasy;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.circle {
+  display: flex;
+  height:20px;
+  width: 50px;
+  border-radius: 50%;
+  margin: 10px;
+  margin-top: 0px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.circle p {
+  font-family: fantasy;
+  color: orange;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  /* display: inline-grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 20px; */
+}
