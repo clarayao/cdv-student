@@ -1,12 +1,12 @@
-#Reading Response 1
+# Reading Response 1
 
-###Changes in "Data"
+### Changes in "Data"
 "Data" was originally loaned from the Latin word that means "given", and was believed to be something given by the almighty God that is divine and represents truth. After the 1600s and up untill the twentieth century, "data" is usually associated with math and other philosophical and scientific discoveries that are relevant to understanding the unknowns. Later with the development of modern statistics, "data" is associated statistics. Then, when computer was invented, "data" and "computer"-related things become close neighbors. And in the last decade, "data" become more and more relevant to humanistic words.
 
-###New Neighbors
+### New Neighbors
 I think words like "object(-tivity)", "human-center (humanistic)", might become neightbors with data in the future. Because, as described in Jer Thorpe's article "I Data You, You Data Me", "[exposed] to this rich possibility of cause and effect, the common usages of data today become strikingly narrow: in our lived data experiences, we are object rather than subjects" (Thorpe 50). That is, there is a potential in flipping the cause and effect between the perceiving and the perceived. In other words, we might verbalize data and use data actively instead of just being passively "data-ed" (by the big companies, for instance) in the future.
 
-###Data Bias & Example
+### Data Bias & Example
 For me, I think data bias is when data is "taken" in a way that doesn't wholistically represends real-life experiences. And it is often alongside with the fact that "data is reductive" becuase when reducing data into a seemingly more simplified state, we are actually leaving out some marginalized data that has to exist to represent the real-world.
 
 An example I can think of would be the prevalence rate or death rate of COVID-19 during the lock down period in 2020. In many countries, it's widely known that the actual prevalence/death rate of COVID is much less than what it actually is. This bias comes into existence because of multiple reasons. For example, some people might not know they are having COVID becuase of the lack of knowledge about the disease at that time; some people didn't go to the hospital because (maybe) they don't have insurance to pay for the treatment; some people might pass away before they could go to the hospital...... Thus, due to different reasons, the actual prevalence/death rate of COVID-19 is much higher than the data that is shown to the public, and the data is reduced by neglecting some people that had COVID, but weren't diagnosed because of various reasons, which is a kind of data bias.
