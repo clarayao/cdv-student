@@ -58,4 +58,6 @@ h1 {
   position: absolute;
   top: 300px;
   text-rendering: geometricPrecision;
+  display: flex;
+  flex-wrap: wrap;
 }
