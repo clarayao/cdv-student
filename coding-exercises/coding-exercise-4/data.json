@@ -1,0 +1,137 @@
+[
+    {
+        "timestamp": "2022-03-02T01:27:10.376Z",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "numberOfPagesRoughly": 223,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 9,
+        "language": "English"
+    },
+    {
+        "timestamp": "2022-03-02T01:27:59.699Z",
+        "name": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "numberOfPagesRoughly": 251,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 8,
+        "language": "English"
+    },
+    {
+        "timestamp": "2022-03-02T01:28:53.476Z",
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling",
+        "numberOfPagesRoughly": 317,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 9,
+        "language": "English"
+    },
+    {
+        "timestamp": "2022-03-02T01:29:47.031Z",
+        "name": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling",
+        "numberOfPagesRoughly": 636,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 8,
+        "language": "English"
+    },
+    {
+        "timestamp": "2022-03-02T01:30:36.731Z",
+        "name": "Harry Potter and the Order of the Phoenix",
+        "author": "J.K. Rowling",
+        "numberOfPagesRoughly": 766,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 9,
+        "language": "English"
+    },
+    {
+        "timestamp": "2022-03-02T01:31:28.023Z",
+        "name": "Harry Potter and the Half-Blood Prince",
+        "author": "J.K. Rowling",
+        "numberOfPagesRoughly": 607,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 7,
+        "language": "English"
+    },
+    {
+        "timestamp": "2022-03-02T01:32:15.250Z",
+        "name": "Harry Potter and the Deathly Hallows",
+        "author": "J.K. Rowling",
+        "numberOfPagesRoughly": 607,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 10,
+        "language": "English"
+    },
+    {
+        "timestamp": "2022-03-02T01:33:23.118Z",
+        "name": "To Live",
+        "author": "Yu Hua",
+        "numberOfPagesRoughly": 219,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 10,
+        "language": "Chinese"
+    },
+    {
+        "timestamp": "2022-03-02T01:36:24.555Z",
+        "name": "Men Without Women",
+        "author": "Haruki Murakami",
+        "numberOfPagesRoughly": 288,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 8,
+        "language": "Chinese"
+    },
+    {
+        "timestamp": "2022-03-02T01:39:15.319Z",
+        "name": "Silver Cactus",
+        "author": "Long Yingtai",
+        "numberOfPagesRoughly": 224,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 8,
+        "language": "Chinese"
+    },
+    {
+        "timestamp": "2022-03-02T01:41:03.044Z",
+        "name": "Fortress Besieged",
+        "author": "Qian Zhongshu",
+        "numberOfPagesRoughly": 200,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 6,
+        "language": "Chinese"
+    },
+    {
+        "timestamp": "2022-03-02T01:41:53.470Z",
+        "name": "Feminism",
+        "author": "Li Yinhe",
+        "numberOfPagesRoughly": 300,
+        "typeOfBook": "Non-Fiction",
+        "iLikedIt": 8,
+        "language": "Chinese"
+    },
+    {
+        "timestamp": "2022-03-02T01:45:01.117Z",
+        "name": "Patriarchy and Capitalism",
+        "author": "Chizuko Ueno",
+        "numberOfPagesRoughly": 281,
+        "typeOfBook": "Non-Fiction",
+        "iLikedIt": 9,
+        "language": "Chinese"
+    },
+    {
+        "timestamp": "2022-03-02T01:48:06.402Z",
+        "name": "Interaction of color",
+        "author": "Josef Albers",
+        "numberOfPagesRoughly": 208,
+        "typeOfBook": "Non-Fiction",
+        "iLikedIt": 7,
+        "language": "English"
+    },
+    {
+        "timestamp": "2022-03-02T01:49:29.227Z",
+        "name": "Twenty Thousand Leagues Under the Seas",
+        "author": "Jules Verne",
+        "numberOfPagesRoughly": 350,
+        "typeOfBook": "Fiction",
+        "iLikedIt": 3,
+        "language": "Chinese"
+    }
+]

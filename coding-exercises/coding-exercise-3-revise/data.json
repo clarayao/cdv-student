@@ -1,0 +1,83 @@
+[
+    {
+        "timestamp": "2022-02-23T08:07:38.195Z",
+        "location": "Off-Campus",
+        "date": "2022-02-20T16:00:00.000Z",
+        "time": "1899-12-30T04:12:20.000Z",
+        "triggeredBy": "Quotes & Readings",
+        "aboutWhatTopic": "Art",
+        "question": "What is art's role in society?"
+    },
+    {
+        "timestamp": "2022-02-23T08:15:59.519Z",
+        "location": "Dorm",
+        "date": "2022-02-20T16:00:00.000Z",
+        "time": "1899-12-30T14:29:20.000Z",
+        "triggeredBy": "Details in lives",
+        "aboutWhatTopic": "Life",
+        "question": "Why can't my roommate be more mindful of others who are living in the same room with her?"
+    },
+    {
+        "timestamp": "2022-02-23T08:16:58.650Z",
+        "location": "Dorm",
+        "date": "2022-02-20T16:00:00.000Z",
+        "time": "1899-12-30T15:07:20.000Z",
+        "triggeredBy": "Quotes & Readings",
+        "aboutWhatTopic": "Society",
+        "question": "What does \"[data] is reductive\" means?"
+    },
+    {
+        "timestamp": "2022-02-23T08:18:23.952Z",
+        "location": "Academic building",
+        "date": "2022-02-21T16:00:00.000Z",
+        "time": "1899-12-30T04:12:20.000Z",
+        "triggeredBy": "Details in lives",
+        "aboutWhatTopic": "Life",
+        "question": "Why do I get awkward so easily?"
+    },
+    {
+        "timestamp": "2022-02-23T08:20:06.854Z",
+        "location": "Academic building",
+        "date": "2022-02-21T16:00:00.000Z",
+        "time": "1899-12-30T12:03:20.000Z",
+        "triggeredBy": "Work",
+        "aboutWhatTopic": "Technology",
+        "question": "Why is it so hard to find a good photo on Google?"
+    },
+    {
+        "timestamp": "2022-02-23T08:23:05.547Z",
+        "location": "Academic building",
+        "date": "2022-02-21T16:00:00.000Z",
+        "time": "1899-12-30T07:50:20.000Z",
+        "triggeredBy": "Academic",
+        "aboutWhatTopic": "Art",
+        "question": "Why the difference between what I had imagined and the outcome of my project is so big?"
+    },
+    {
+        "timestamp": "2022-02-23T08:31:01.362Z",
+        "location": "Academic building",
+        "date": "2022-02-22T16:00:00.000Z",
+        "time": "1899-12-30T01:02:20.000Z",
+        "triggeredBy": "Academic",
+        "aboutWhatTopic": "Society",
+        "question": "Why even \"the best quilt maker in China\" doesn't have much information online?"
+    },
+    {
+        "timestamp": "2022-02-23T08:32:16.681Z",
+        "location": "Dorm",
+        "date": "2022-02-22T16:00:00.000Z",
+        "time": "1899-12-30T07:54:20.000Z",
+        "triggeredBy": "Details in lives",
+        "aboutWhatTopic": "Mundane",
+        "question": "Who decorated the beautiful decorations in the RC center?"
+    },
+    {
+        "timestamp": "2022-02-23T08:35:33.412Z",
+        "location": "Dorm",
+        "date": "2022-02-22T16:00:00.000Z",
+        "time": "1899-12-30T08:53:20.000Z",
+        "triggeredBy": "Academic",
+        "aboutWhatTopic": "Mundane",
+        "question": "Why do I only have so little datapoints?"
+    }
+]

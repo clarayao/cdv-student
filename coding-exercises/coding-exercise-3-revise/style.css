@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+h1 {
+  margin: 30px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: fantasy;
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+
+.circle {
+  margin: 30px;
+  position: absolute;
+  top: 100px;
+  color: white;
+  background-color: black;
+  padding: 7px;
+}
+
+.square {
+  margin: 30px;
+  position: absolute;
+  left: 400px;
+  top: 100px;
+  color: white;
+  background-color: black;
+  padding: 7px;
+}
+
+.height {
+  margin: 30px;
+  position: absolute;
+  left: 750px;
+  top: 100px;
+  width: 300px;
+  color: white;
+  background-color: black;
+  padding: 7px;
+}
+
+.column {
+  margin: 30px;
+  position: absolute;
+  left: 1100px;
+  top: 100px;
+  width: 300px;
+  color: white;
+  background-color: black;
+  padding: 7px;
+}
+
+#viz {
+  position: absolute;
+  top: 300px;
+  text-rendering: geometricPrecision;
+  display: flex;
+  flex-wrap: wrap;
+}
