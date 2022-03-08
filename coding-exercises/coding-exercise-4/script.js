@@ -142,6 +142,8 @@ datagroups.append("text")
             .style("font-family", "fantasy")
             .style("font-size", 19)
             .call(cdvTextWrap(100))
+            .selectAll("tspan")
+            .attr("text-anchor" ,"middle")
 ;
 
 //write author name

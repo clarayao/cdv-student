@@ -123,6 +123,7 @@ function gotData(incomingData){
             .attr("fill", "white")
             .style("font-family", "fantasy")
             .style("word-wrap", "initial")
+            .call(cdvTextWrap(60))
   ;
 
 }
