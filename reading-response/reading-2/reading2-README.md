@@ -1,4 +1,5 @@
-[This] (https://pudding.cool/2018/08/pockets/) data visualization "Pockets" by Jan Diehm & Amber Thomas illustrated the ongoing issue of how small pockets of women's clothes are when comparing to men's. In this data visualization, they collected the size of the pockets of pants in 20 of the US' most popular blue jeans brands, and visualized them by drawing the pockets of both women and men next to each other.
+
+[This](https://pudding.cool/2018/08/pockets/) data visualization "Pockets" by Jan Diehm & Amber Thomas illustrated the ongoing issue of how small pockets of women's clothes are when comparing to men's. In this data visualization, they collected the size of the pockets of pants in 20 of the US' most popular blue jeans brands, and visualized them by drawing the pockets of both women and men next to each other.
 [reading-response/reading-2/pockets-1.jpg].
 To further make the visualization more intuitively, they also draw different sizes of phones, hands, wallets, etc. when put into women/men's pockets.
 [reading-response/reading-2/pockets-3.jpg].
