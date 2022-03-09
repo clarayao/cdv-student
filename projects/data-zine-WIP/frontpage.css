@@ -1,0 +1,57 @@
+#container {
+  background-color: #FCF3CF;
+}
+
+#headline1 {
+  font-family: fantasy;
+  font-size: 70px;
+
+  position: absolute;
+  left: 25%;
+  top: 7%;
+}
+
+#headline2 {
+  font-family: fantasy;
+  font-size: 70px;
+
+  position: absolute;
+  left: 50%;
+  top: 43%;
+}
+
+#figure1 {
+  position: absolute;
+  left: 21%;
+  top: 35%;
+
+  width: 200px;
+  height: 200px;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+#figure2 {
+  position: absolute;
+  left: 43%;
+  top: 35%;
+
+  width: 200px;
+  height: 200px;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+#figure3 {
+  position: absolute;
+  left: 65%;
+  top: 35%;
+
+  width: 200px;
+  height: 200px;
+
+  margin: 0px;
+  padding: 0px;
+}

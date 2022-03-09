@@ -1,0 +1,233 @@
+[
+    {
+        "timestamp": "2022-03-09T08:22:22.428Z",
+        "date": "2022-03-04T16:00:00.000Z",
+        "time": "1899-12-30T02:29:17.000Z",
+        "location": "AB",
+        "topic": "Other's behavior",
+        "howDidIDealWithIt": "Endure",
+        "degreeOfAwkwardness": 3,
+        "successLevelInDealingWithIt": 1,
+        "detail": "The speaker at the CDC conference can't play the right note on the guitar"
+    },
+    {
+        "timestamp": "2022-03-09T08:24:19.501Z",
+        "date": "2022-03-04T16:00:00.000Z",
+        "time": "1899-12-30T02:41:17.000Z",
+        "location": "Virtual",
+        "topic": "Actual interaction",
+        "howDidIDealWithIt": "Actively react",
+        "degreeOfAwkwardness": 3,
+        "successLevelInDealingWithIt": 2,
+        "detail": "Asking my boss at YGT for documentation to proof we are NPO "
+    },
+    {
+        "timestamp": "2022-03-09T08:26:16.178Z",
+        "date": "2022-03-04T16:00:00.000Z",
+        "time": "1899-12-30T04:03:17.000Z",
+        "location": "AB",
+        "topic": "Actual interaction",
+        "howDidIDealWithIt": "Avoid",
+        "degreeOfAwkwardness": 3,
+        "successLevelInDealingWithIt": 1,
+        "detail": "Helping Nupur to persuade the high school kid into studying"
+    },
+    {
+        "timestamp": "2022-03-09T08:35:38.817Z",
+        "date": "2022-03-05T16:00:00.000Z",
+        "time": "1899-12-30T10:26:17.000Z",
+        "location": "Virtual",
+        "topic": "Other's behavior",
+        "howDidIDealWithIt": "Endure",
+        "degreeOfAwkwardness": 1,
+        "successLevelInDealingWithIt": 2,
+        "detail": "\"Friends\" Season 2, Episode 8 when Phebe sang an awkward song"
+    },
+    {
+        "timestamp": "2022-03-09T08:39:25.895Z",
+        "date": "2022-03-05T16:00:00.000Z",
+        "time": "1899-12-30T10:41:17.000Z",
+        "location": "Dorm",
+        "topic": "Actual interaction",
+        "howDidIDealWithIt": "Actively react",
+        "degreeOfAwkwardness": 2,
+        "successLevelInDealingWithIt": 1,
+        "detail": "Encountering my roommate and she complained about her work"
+    },
+    {
+        "timestamp": "2022-03-09T08:41:03.452Z",
+        "date": "2022-03-06T16:00:00.000Z",
+        "time": "1899-12-29T23:59:17.000Z",
+        "location": "Transportation",
+        "topic": "Actual interaction",
+        "howDidIDealWithIt": "Actively react",
+        "degreeOfAwkwardness": 2,
+        "successLevelInDealingWithIt": 2,
+        "detail": "Encountering a stranger who chats with me"
+    },
+    {
+        "timestamp": "2022-03-09T08:43:48.344Z",
+        "date": "2022-03-06T16:00:00.000Z",
+        "time": "1899-12-30T07:34:17.000Z",
+        "location": "AB",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Endure",
+        "degreeOfAwkwardness": 2,
+        "successLevelInDealingWithIt": 3,
+        "detail": "Recording video for VCSAP"
+    },
+    {
+        "timestamp": "2022-03-09T08:45:49.454Z",
+        "date": "2022-03-06T16:00:00.000Z",
+        "time": "1899-12-30T14:34:17.000Z",
+        "location": "Transportation",
+        "topic": "Other's behavior",
+        "howDidIDealWithIt": "Avoid",
+        "degreeOfAwkwardness": 1,
+        "successLevelInDealingWithIt": 2,
+        "detail": "Two people sitting behind me chatting awkwardly"
+    },
+    {
+        "timestamp": "2022-03-09T08:47:23.051Z",
+        "date": "2022-03-07T16:00:00.000Z",
+        "time": "1899-12-30T00:53:17.000Z",
+        "location": "Virtual",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Avoid",
+        "degreeOfAwkwardness": 3,
+        "successLevelInDealingWithIt": 1,
+        "detail": "Group discussion during MSR when nobody talked"
+    },
+    {
+        "timestamp": "2022-03-09T08:49:29.689Z",
+        "date": "2022-03-07T16:00:00.000Z",
+        "time": "1899-12-30T02:42:17.000Z",
+        "location": "AB",
+        "topic": "Actual interaction",
+        "howDidIDealWithIt": "Actively react",
+        "degreeOfAwkwardness": 2,
+        "successLevelInDealingWithIt": 2,
+        "detail": "Asked a stupid question in class"
+    },
+    {
+        "timestamp": "2022-03-09T08:50:50.811Z",
+        "date": "2022-03-07T16:00:00.000Z",
+        "time": "1899-12-30T03:49:17.000Z",
+        "location": "AB",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Avoid",
+        "degreeOfAwkwardness": 3,
+        "successLevelInDealingWithIt": 1,
+        "detail": "Encountering professor in the elevator"
+    },
+    {
+        "timestamp": "2022-03-09T08:52:51.566Z",
+        "date": "2022-03-07T16:00:00.000Z",
+        "time": "1899-12-30T12:24:17.000Z",
+        "location": "AB",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Endure",
+        "degreeOfAwkwardness": 2,
+        "successLevelInDealingWithIt": 2,
+        "detail": "Duty phone rang in the study room"
+    },
+    {
+        "timestamp": "2022-03-09T08:54:43.996Z",
+        "date": "2022-03-07T16:00:00.000Z",
+        "time": "1899-12-30T12:46:17.000Z",
+        "location": "AB",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Actively react",
+        "degreeOfAwkwardness": 3,
+        "successLevelInDealingWithIt": 3,
+        "detail": "No one talks when sitting in the same table in a meeting"
+    },
+    {
+        "timestamp": "2022-03-09T08:55:42.247Z",
+        "date": "2022-03-07T16:00:00.000Z",
+        "time": "1899-12-30T13:38:17.000Z",
+        "location": "AB",
+        "topic": "Other's behavior",
+        "howDidIDealWithIt": "Endure",
+        "degreeOfAwkwardness": 3,
+        "successLevelInDealingWithIt": 1,
+        "detail": "Someone took off her shoe to play the game"
+    },
+    {
+        "timestamp": "2022-03-09T08:56:58.632Z",
+        "date": "2022-03-08T16:00:00.000Z",
+        "time": "1899-12-30T03:10:17.000Z",
+        "location": "Dorm",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Endure",
+        "degreeOfAwkwardness": 2,
+        "successLevelInDealingWithIt": 2,
+        "detail": "Sending an angry post on the Red Book"
+    },
+    {
+        "timestamp": "2022-03-09T08:58:19.954Z",
+        "date": "2022-03-08T16:00:00.000Z",
+        "time": "1899-12-30T05:06:17.000Z",
+        "location": "Virtual",
+        "topic": "Other's behavior",
+        "howDidIDealWithIt": "Avoid",
+        "degreeOfAwkwardness": 1,
+        "successLevelInDealingWithIt": 2,
+        "detail": "\"Friends\" Season 2, Episode 20, when Chandler & Joey had to call Richard dad "
+    },
+    {
+        "timestamp": "2022-03-09T08:59:18.121Z",
+        "date": "2022-03-04T16:00:00.000Z",
+        "time": "1899-12-30T10:44:17.000Z",
+        "location": "Off-Campus",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Actively react",
+        "degreeOfAwkwardness": 2,
+        "successLevelInDealingWithIt": 3,
+        "detail": "No topic to talk about when eating out with my friend"
+    },
+    {
+        "timestamp": "2022-03-09T09:00:41.957Z",
+        "date": "2022-03-07T16:00:00.000Z",
+        "time": "1899-12-30T15:04:17.000Z",
+        "location": "Dorm",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Endure",
+        "degreeOfAwkwardness": 2,
+        "successLevelInDealingWithIt": 2,
+        "detail": "Don't know what topic to talk about when going on the duty walk"
+    },
+    {
+        "timestamp": "2022-03-09T09:02:32.490Z",
+        "date": "2022-03-06T16:00:00.000Z",
+        "time": "1899-12-30T11:20:17.000Z",
+        "location": "Virtual",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Endure",
+        "degreeOfAwkwardness": 3,
+        "successLevelInDealingWithIt": 1,
+        "detail": "Shouting out the time when monitoring the contest"
+    },
+    {
+        "timestamp": "2022-03-09T09:03:36.220Z",
+        "date": "2022-03-06T16:00:00.000Z",
+        "time": "1899-12-30T01:32:17.000Z",
+        "location": "Virtual",
+        "topic": "Environment",
+        "howDidIDealWithIt": "Actively react",
+        "degreeOfAwkwardness": 2,
+        "successLevelInDealingWithIt": 2,
+        "detail": "A loud noise around me when I open my mic to speak during the zoom meeting"
+    },
+    {
+        "timestamp": "2022-03-09T09:05:23.917Z",
+        "date": "2022-03-08T16:00:00.000Z",
+        "time": "1899-12-30T08:50:17.000Z",
+        "location": "Dorm",
+        "topic": "Other's behavior",
+        "howDidIDealWithIt": "Endure",
+        "degreeOfAwkwardness": 3,
+        "successLevelInDealingWithIt": 1,
+        "detail": "The person next to me made an awkward joke to his acquaintance"
+    }
+]
