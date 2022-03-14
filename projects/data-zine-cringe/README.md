@@ -1,5 +1,5 @@
-#Data-Zine
-[This](https://pudding.cool/2018/08/pockets/) is the link to the live website
+# Data-Zine
+[This](https://clarayao.github.io/cdv-student/projects/data-zine-cringe/) is the link to the live website
 ![Cover](images/cover.jpg)
 ![Page 2 & 3](images/page2-3.jpg)
 ![back](images/back.jpg)
