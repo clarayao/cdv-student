@@ -2,22 +2,46 @@
   background-color: #FCF3CF;
 }
 
-#headline1 {
-  font-family: fantasy;
-  font-size: 70px;
-
+#cringeBox {
   position: absolute;
-  left: 25%;
-  top: 7%;
+  left: 5%;
+  top: 5%;
 }
 
+#headline1shadow {
+  font-family: 'Anton', sans-serif;;
+  font-size: 100px;
+  color: #30BCED;
+
+  position: absolute;
+  left: 16%;
+  top: -4%;
+}
+#headline1 {
+  font-family: 'Anton', sans-serif;;
+  font-size: 100px;
+
+  position: absolute;
+  left: 15%;
+  top: -5%;
+}
+
+#headline2shadow {
+  font-family: 'Anton', sans-serif;;
+  font-size: 100px;
+  color: #30BCED;
+
+  position: absolute;
+  left: 51%;
+  top: 31%;
+}
 #headline2 {
-  font-family: fantasy;
-  font-size: 70px;
+  font-family: 'Anton', sans-serif;;
+  font-size: 100px;
 
   position: absolute;
   left: 50%;
-  top: 43%;
+  top: 30%;
 }
 
 #figure1 {

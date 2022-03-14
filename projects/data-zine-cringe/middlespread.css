@@ -1,0 +1,11 @@
+/* Text in the center: "I cringed at these moments" */
+#middledescription {
+  position: absolute;
+  left: 37%;
+  top: 35%;
+
+  font-size: 45px;
+  width: 650px;
+
+  font-family: 'Anton', sans-serif;
+}

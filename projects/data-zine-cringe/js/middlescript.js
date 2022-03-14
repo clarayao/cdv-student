@@ -12,32 +12,106 @@ let viz = d3.select('#container')
                 .style("background-color","#FCF3CF")
 ;
 
-function gotData(incomingData) {
-  console.log(incomingData);
+// transform time in to integer time
+function transformTime(dataToTransform) {
+  return dataToTransform.map(d=>{
+    d.date = new Date(d.date);
+    d.time = new Date(d.time);
+    return d
+})
+}
 
-  let datagroups = viz.selectAll(".dataGroup").data(incomingData).enter()
+// group a certain time span
+function formGroup(dataToTransform) {
+  let groupedData = d3.group(dataToTransform, function(datapoint){
+    let hour = datapoint.time.getHours();
+
+    if(hour ==  8){
+      return "8"
+    }else if(hour ==  9){
+      return "9"
+    }else if(hour ==  10){
+      return "10"
+    } else if(hour ==  11){
+      return "11"
+    } else if(hour ==  12){
+      return "12"
+    } else if(hour ==  13){
+      return "13"
+    } else if(hour ==  15){
+      return "15"
+    } else if(hour ==  16){
+      return "16"
+    } else if(hour ==  18){
+      return "18"
+    } else if(hour ==  19){
+      return "19"
+    } else if(hour ==  20){
+      return "20"
+    } else {
+      return "21-23"
+    }
+  })
+  let normalArrayVersion = Array.from(groupedData);
+  return normalArrayVersion;
+}
+
+// draw each time group's pattern
+function gotData(incomingData) {
+  //organize time format
+  let sortedData = incomingData.slice().sort((a, b) => d3.ascending(a.time, b.time));
+  let transformedTime = transformTime(sortedData);
+
+  //make datagroup for each hour
+  let formedGroup = formGroup(transformedTime);
+
+  // position each time group
+  let timeGroups = viz.selectAll(".timeGroup").data(formedGroup).enter().append("g")
+      .attr("class","timeGroup")
+      .attr("transform", function(d,i){
+        let x = 5+i*w/12;
+        let y = 50;
+        return "translate("+x+","+y+")"
+      })
+  ;
+
+  // the bottom time label
+  let timebox = timeGroups.append("rect")
+              .attr("x", 50)
+              .attr("y", 670)
+              .attr("fill", "white")
+              .attr("width", "130")
+              .attr("height", "70")
+              .attr("stroke", "black")
+              .attr("stroke-width", 4)
+  ;
+  timeGroups.append("text")
+              .attr("x", 70)
+              .attr("y", 720)
+              .text(function(d){
+                let time = d[0]
+                return time+":00"})
+              .attr("font-family", "'Anton', sans-serif")
+              .style("font-size","30px")
+  ;
+
+  // draw each data point
+  function getTimeData(d,i){
+    return d[1]
+  }
+  let datagroups = timeGroups.selectAll(".dataGroup").data(getTimeData).enter()
                                                                     .append("g")
                                                                       .attr("class", "dataGroup")
   ;
-  //locate svg
+  //locate each head shot
   datagroups.attr("transform", getPosition);
-
   function getPosition(d, i) {
-    let x = 300 + i%numColumns*300;
-    let y = 100 + Math.floor(i/numColumns)*270;
+    let x = 100;
+    let y = i*250+50
     return "translate("+x+", "+y+")"
   }
 
-  // function successColor(d, i) {
-  //   if (d.successLevelInDealingWithIt == 1) {
-  //     return "#F1D302"
-  //   } else if (d.successLevelInDealingWithIt == 2) {
-  //     return "#EA7317"
-  //   } else {
-  //     return "#FC440F"
-  //   }
-  // }
-
+  //howDidIDealWithIt-->clothes color
   function how(d, i) {
     if (d.howDidIDealWithIt == "Endure") {
       return "#F1D302"
@@ -59,19 +133,21 @@ function gotData(incomingData) {
               .attr("stroke-width", 8)
 
   ;
-  //---Other's behavior-rectangle
+
+  //----Other's behavior triangle
+  datagroups.filter(d=>d.topic =="Other's behavior").append("polygon")
+              .attr("points", "0,-80 -80,70 80,70")
+              .attr("fill", "#30BCED")
+              .attr("stroke", "black")
+              .attr("stroke-width", 8)
+  ;
+
+  //---Actual Interaction-rectangle
   datagroups.filter(d=>d.topic =="Actual interaction").append("rect")
               .attr("x", -70)
               .attr("y", -70)
               .attr("width", 140)
               .attr("height", 140)
-              .attr("fill", "#30BCED")
-              .attr("stroke", "black")
-              .attr("stroke-width", 8)
-  ;
-  //---Actual Interaction-triangle
-  datagroups.filter(d=>d.topic =="Other's behavior").append("polygon")
-              .attr("points", "0,-80 -80,70 80,70")
               .attr("fill", "#30BCED")
               .attr("stroke", "black")
               .attr("stroke-width", 8)
@@ -237,15 +313,15 @@ function gotData(incomingData) {
   ;
   //----mouth
   datagroups.filter(d=>d.degreeOfAwkwardness ==3).append("path")
-              .attr("d", "M-15 15 Q-12.5,10 -10,15 -7.5,10 -5,15 -2.5,10 0,15 2.5,10 5,15 7.5,10 10,15 12.5,10 15,15")
-              .attr("fill", "nofill")
+              .attr("d", "M-19,12.5 Q-17,15 -15,12.5 -13,10 -11,12.5 -9,15 -7,12.5 -5,10 -3,12.5 -1,15 1,12.5 3,10 5,12.5 7,15 9,12.5 11,10 13,12.5 15,15 17,12.5 19,15")
+              .attr("fill", "transparent")
               .attr("stroke", "black")
-              .attr("stroke-width", 3)
+              .attr("stroke-width", 2)
   ;
 
   //location
   //---Dorm
-  datagroups.filter(d=>d.location =="Dorm").append("rect")
+  let frameD = datagroups.filter(d=>d.location =="Dorm").append("rect")
                 .attr("x", -83)
                 .attr("y", 60)
                 .attr("width", 166)
@@ -255,7 +331,7 @@ function gotData(incomingData) {
                 .attr("stroke-width", 3)
     ;
   //---AB
-  datagroups.filter(d=>d.location =="AB").append("rect")
+  let frameA = datagroups.filter(d=>d.location =="AB").append("rect")
                 .attr("x", -83)
                 .attr("y", 60)
                 .attr("width", 166)
@@ -266,7 +342,7 @@ function gotData(incomingData) {
                 .attr("stroke-width", 3)
     ;
   //---Transportation
-  datagroups.filter(d=>d.location =="Transportation").append("rect")
+  let frameT = datagroups.filter(d=>d.location =="Transportation").append("rect")
                 .attr("x", -83)
                 .attr("y", 60)
                 .attr("width", 166)
@@ -277,16 +353,7 @@ function gotData(incomingData) {
                 .attr("stroke-width", 3)
     ;
   //---Off-campus
-  datagroups.filter(d=>d.location =="Off-Campus").append("rect")
-                .attr("x", -83)
-                .attr("y", 60)
-                .attr("width", 166)
-                .attr("height", 52)
-                .attr("fill", "white")
-                .attr("stroke", "black")
-                .attr("stroke-width", 3)
-    ;
-  datagroups.filter(d=>d.location =="Off-Campus").append("rect")
+  let frameO1 = datagroups.filter(d=>d.location =="Off-Campus").append("rect")
                 .attr("x", -83)
                 .attr("y", 60)
                 .attr("width", 166)
@@ -296,17 +363,26 @@ function gotData(incomingData) {
                 .attr("stroke", "black")
                 .attr("stroke-width", 3)
     ;
+    let frameO2 = datagroups.filter(d=>d.location =="Off-Campus").append("rect")
+                  .attr("x", -80)
+                  .attr("y", 62.5)
+                  .attr("width", 160)
+                  .attr("height", 47)
+                  .attr("fill", "white")
+                  .attr("stroke", "black")
+                  .attr("stroke-width", 3)
+      ;
   //---Virtual
-  datagroups.filter(d=>d.location =="Virtual").append("rect")
+  let frameV1 = datagroups.filter(d=>d.location =="Virtual").append("rect")
                 .attr("x", -83)
                 .attr("y", 60)
                 .attr("width", 166)
-                .attr("height", 52)
+                // .attr("height", 52)
                 .attr("fill", "white")
                 .attr("stroke", "black")
                 .attr("stroke-width", 1)
     ;
-    datagroups.filter(d=>d.location =="Virtual").append("rect")
+  let frameV2 = datagroups.filter(d=>d.location =="Virtual").append("rect")
                   .attr("x", -80)
                   .attr("y", 63)
                   .attr("width", 160)
@@ -317,7 +393,7 @@ function gotData(incomingData) {
       ;
 
   //detail
-  datagroups.append("rect")
+  let captionFrames = datagroups.append("rect")
               .attr("id", "textRect")
               .attr("x", -75)
               .attr("y", 68)
@@ -328,27 +404,54 @@ function gotData(incomingData) {
               .attr("stroke-width", 6)
   ;
 
-// var bbox = textRect.getBBox();
-//   console.log(textRect.getBBox().x)
-//   function getSize(d) {
-//     let bbox = textRect.getBBox();
-//     // console.log(textRect.getBBox())
-//     let cbbox = textRect.parentNode.getBBox();
-//     let scale = Math.min(cbbox.width/bobox.width, cbbox.height/bbox.height)
-//     d.scale = scale;
-//   }
+let texts = datagroups.append("text")
+            .text(d=>d.detail)
+            .attr("x", -70)
+            .attr("y", 82)
+            .attr("font-family", "'Anton', sans-serif")
+            .style("font-size", "11px")
+;
+setTimeout(function(){
+  texts.call(cdvTextWrap(148))
 
+  captionFrames.attr("height", function(d, i) {
+    let textHeight = d3.select(this.parentNode).select("text").node().getBBox().height;
+    return textHeight + 5;
+  })
+  frameD.attr("height", function(d, i) {
+    let textHeight = d3.select(this.parentNode).select("text").node().getBBox().height;
+    return textHeight + 22;
+  })
+  frameA.attr("height", function(d, i) {
+    let textHeight = d3.select(this.parentNode).select("text").node().getBBox().height;
+    return textHeight + 22;
+  })
+  frameO1.attr("height", function(d, i) {
+    let textHeight = d3.select(this.parentNode).select("text").node().getBBox().height;
+    return textHeight + 21;
+  })
+  frameO2.attr("height", function(d, i) {
+    let textHeight = d3.select(this.parentNode).select("text").node().getBBox().height;
+    return textHeight + 16;
+  })
+  frameV1.attr("height", function(d, i) {
+    let textHeight = d3.select(this.parentNode).select("text").node().getBBox().height;
+    return textHeight+21;
+  })
+  frameV2.attr("height", function(d, i) {
+    let textHeight = d3.select(this.parentNode).select("text").node().getBBox().height;
+    return textHeight+15;
+  })
+  frameT.attr("height", function(d, i) {
+    let textHeight = d3.select(this.parentNode).select("text").node().getBBox().height;
+    return textHeight + 22;
+  })
+  timebox.attr("width", function(d, i) {
+    let textWidth = d3.select(this.parentNode).select("text").node().getBBox().width;
+    return textWidth + 40;
+  })
+})
 
-
-
-  datagroups.append("text")
-              .text(d=>d.detail)
-              .attr("x", -70)
-              .attr("y", 80)
-              .style("font-family", "'Anton', sans-serif")
-              .style("font-size", "11px")
-              .call(cdvTextWrap(148))
-  ;
 }
 
 

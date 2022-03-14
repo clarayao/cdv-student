@@ -1,4 +1,4 @@
-// Leon Eckert, Critical Data & Visualization course, NYU Shanghai. 
+// Leon Eckert, Critical Data & Visualization course, NYU Shanghai.
 // Note: I have adopted this library for easy use by my students.
 // The entire library comes from https://github.com/vijithassar/d3-textwrap THank you!
 // I have (1) added this function
@@ -89,4 +89,3 @@ function cdvTextWrap(w, h){
     var c = a;
     (t.selection = e.selection), (t.select = e.select), (t.textwrap = c), Object.defineProperty(t, "__esModule", { value: !0 });
 });
-
