@@ -2,9 +2,20 @@
 #middledescription {
   position: absolute;
   left: 37%;
-  top: 35%;
+  top: 28%;
 
   font-size: 45px;
+  width: 650px;
+
+  font-family: 'Anton', sans-serif;
+}
+
+#description2 {
+  position: absolute;
+  left: 37%;
+  top: 67%;
+
+  font-size: 25px;
   width: 650px;
 
   font-family: 'Anton', sans-serif;

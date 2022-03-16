@@ -69,7 +69,7 @@ function gotData(incomingData) {
   let timeGroups = viz.selectAll(".timeGroup").data(formedGroup).enter().append("g")
       .attr("class","timeGroup")
       .attr("transform", function(d,i){
-        let x = 5+i*w/12;
+        let x = i*w/12;
         let y = 50;
         return "translate("+x+","+y+")"
       })
@@ -78,10 +78,10 @@ function gotData(incomingData) {
   // the bottom time label
   let timebox = timeGroups.append("rect")
               .attr("x", 50)
-              .attr("y", 670)
+              .attr("y", 680)
               .attr("fill", "white")
               .attr("width", "130")
-              .attr("height", "70")
+              .attr("height", "50")
               .attr("stroke", "black")
               .attr("stroke-width", 4)
   ;
@@ -107,7 +107,7 @@ function gotData(incomingData) {
   datagroups.attr("transform", getPosition);
   function getPosition(d, i) {
     let x = 100;
-    let y = i*250+50
+    let y = i*240+50
     return "translate("+x+", "+y+")"
   }
 
@@ -412,7 +412,7 @@ let texts = datagroups.append("text")
             .style("font-size", "11px")
 ;
 setTimeout(function(){
-  texts.call(cdvTextWrap(148))
+  texts.call(cdvTextWrap(143))
 
   captionFrames.attr("height", function(d, i) {
     let textHeight = d3.select(this.parentNode).select("text").node().getBBox().height;
