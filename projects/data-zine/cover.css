@@ -1,0 +1,81 @@
+#container {
+  background-color: #FCF3CF;
+}
+
+#cringeBox {
+  position: absolute;
+  left: 5%;
+  top: 5%;
+}
+
+#headline1shadow {
+  font-family: 'Anton', sans-serif;;
+  font-size: 100px;
+  color: #30BCED;
+
+  position: absolute;
+  left: 16%;
+  top: -4%;
+}
+#headline1 {
+  font-family: 'Anton', sans-serif;;
+  font-size: 100px;
+
+  position: absolute;
+  left: 15%;
+  top: -5%;
+}
+
+#headline2shadow {
+  font-family: 'Anton', sans-serif;;
+  font-size: 100px;
+  color: #30BCED;
+
+  position: absolute;
+  left: 51%;
+  top: 31%;
+}
+#headline2 {
+  font-family: 'Anton', sans-serif;;
+  font-size: 100px;
+
+  position: absolute;
+  left: 50%;
+  top: 30%;
+}
+
+#figure1 {
+  position: absolute;
+  left: 21%;
+  top: 35%;
+
+  width: 200px;
+  height: 200px;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+#figure2 {
+  position: absolute;
+  left: 43%;
+  top: 35%;
+
+  width: 200px;
+  height: 200px;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+#figure3 {
+  position: absolute;
+  left: 65%;
+  top: 35%;
+
+  width: 200px;
+  height: 200px;
+
+  margin: 0px;
+  padding: 0px;
+}

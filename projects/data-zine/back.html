@@ -3,13 +3,19 @@
   <head>
     <meta charset="utf-8">
     <title>Back</title>
+    <link rel="stylesheet" href="back.css">
 
     <!-- Please leave this following line here -->
     <script type="text/javascript" src="setup/setup.js"></script>
 
     <!-- include the d3 library -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    
+
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+
   </head>
   <body>
 
@@ -17,7 +23,294 @@
     <!-- everything you create should be in the following container -->
     <!-- Use D3 to place your svg(s) in it, too -->
     <div id="container">
+      <!-- background rectangle -->
+      <div id="cringeBox">
+        <svg width="1200" height="800">
+          <rect x="20" y="25" width="1160" height="750" fill="none" stroke="black" stroke-width="10"></rect>
+        </svg>
+      </div>
+      <!-- big title "How to read it" -->
+      <div id="readshadow">
+        <h1>HOW TO READ IT</h1>
+      </div>
+      <div id="read">
+        <h1>HOW TO READ IT</h1>
+      </div>
+      <!-- figure in the center -->
+      <div id="figureSample">
+        <svg width="500px" height="500px">
+          <circle cx="200" cy="200" r="180" fill="#30BCED" stroke="black" stroke-width="8"></circle>
+          <polyline points="200,163 200,90" stroke="black" stroke-width="3"></polyline>
+          <path d="M180,200 L110,350 Q200,400 290,350 L220,210 Z" fill="#D72483" stroke="black" stroke-width="3"></path>
+          <polyline points="240,300 265,370" stroke="black" stroke-width="3"></polyline>
+          <polyline points="160,300 135,370" stroke="black" stroke-width="3"></polyline>
+          <circle cx="200" cy="200" r="90" fill="white" stroke="black" stroke-width="3"></circle>
+          <circle cx="160" cy="200" r="25" fill="white" stroke="black" stroke-width="2"></circle>
+          <circle cx="160" cy="200" r="12" fill="black"></circle>
+          <circle cx="240" cy="200" r="25" fill="white" stroke="black" stroke-width="2"></circle>
+          <circle cx="240" cy="200" r="12" fill="black"></circle>
+          <polyline points="173,243 227,243" stroke="black" stroke-width="3"></polyline>
+          <rect x="20" y="330" width="360" height="100" fill="white" stroke="black" stroke-width="3" style="stroke-dasharray: 3, 3;"></rect>
+          <rect x="30" y="340" width="340" height="80" fill="white" stroke="black" stroke-width="6"></rect>
+          <text x="39" y="385" font-family="'Anton', sans-serif" style="font-size: 23px;">The detail of what made me cringe.</text>
+        </svg>
+      </div>
 
+      <!-- successLevelInDealingWithIt -> number of hair -->
+      <div id="successLevel">
+        <div class="line">
+          <svg width="200px" height="400px">
+            <polyline points="25,255 260,150" stroke="black" stroke-width="3"></polyline>
+          </svg>
+        </div>
+        <div id="successLevel_description">
+          <h1>How successful I was in dealing with it: </h1>
+          <div id="successlevel1">
+            <div id="sl1-headshot">
+              <svg width="70px" height="70px">
+                <circle cx="30px" cy="30px" r="17" fill="white" stroke="black" stroke-width="2"></circle>
+                <polyline points="30,13 30,5" stroke="black" stroke-width="2"></polyline>
+              </svg>
+            </div>
+            <div id="sl1-words">
+              <p>Not so successful</p>
+            </div>
+          </div>
+          <div id="successlevel2">
+            <div id="sl2-headshot">
+              <svg width="70px" height="70px">
+                <circle cx="30px" cy="30px" r="17" fill="white" stroke="black" stroke-width="2"></circle>
+                <polyline points="26,13 24,6" stroke="black" stroke-width="2"></polyline>
+                <polyline points="34,13 36,6" stroke="black" stroke-width="2"></polyline>
+              </svg>
+            </div>
+            <div id="sl2-words">
+              <p>Successful</p>
+            </div>
+          </div>
+          <div id="successlevel3">
+            <div id="sl3-headshot">
+              <svg width="70px" height="70px">
+                <circle cx="30px" cy="30px" r="17" fill="white" stroke="black" stroke-width="2"></circle>
+                <polyline points="30,13 30,5" stroke="black" stroke-width="2"></polyline>
+                <polyline points="25,13 23,7" stroke="black" stroke-width="2"></polyline>
+                <polyline points="35,13 37,7" stroke="black" stroke-width="2"></polyline>
+              </svg>
+            </div>
+            <div id="sl3-words">
+              <p>Very successful</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- howDidIDealWithIt -> color of clothes -->
+      <div id="howDidIDealWithIt">
+        <div class="line">
+          <svg width="250px" height="400px">
+            <polyline points="75,120 210,70" stroke="black" stroke-width="3"></polyline>
+          </svg>
+        </div>
+        <div id="how_description">
+          <h1>How did I deal with the cringe moments:</h1>
+          <div id="how-endure">
+            <div id="he-color">
+              <svg width="23px" height="17px">
+                <rect width="23px" height="17px" fill=#F1D302 stroke="black" stroke-width="2"></rect>
+              </svg>
+            </div>
+            <div id="he-words">
+              <p>Endure</p>
+            </div>
+          </div>
+          <div id="how-avoid">
+            <div id="ha-color">
+              <svg width="23px" height="17px">
+                <rect width="23px" height="17px" fill=#D72483 stroke="black" stroke-width="2"></rect>
+              </svg>
+            </div>
+            <div id="ha-words">
+              <p>Avoid</p>
+            </div>
+          </div>
+          <div id="how-react">
+            <div id="hr-color">
+              <svg width="23px" height="17px">
+                <rect width="23px" height="17px" fill=#49D49D stroke="black" stroke-width="2"></rect>
+              </svg>
+            </div>
+            <div id="hr-words">
+              <p>Actively interact</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- topic -> shape of the frame -->
+      <div id="topic">
+        <div class="line">
+          <svg width="600px" height="400px">
+            <polyline points="310,60 410,150" stroke="black" stroke-width="3"></polyline>
+          </svg>
+        </div>
+        <div id="topic_description">
+          <h1>What topic triggers the cringe:</h1>
+          <div id="topic-environment">
+            <div id="te-shape">
+              <svg width="70px" height="70px">
+                <circle cx="35px" cy="35px" r="17" fill="#30BCED" stroke="black" stroke-width="2"></circle>
+              </svg>
+            </div>
+            <div id="te-words">
+              <p>Environment</p>
+            </div>
+          </div>
+          <div id="topic-other">
+            <div id="to-shape">
+              <svg width="70px" height="70px">
+                <polygon points="35,20 18,48 52,48" fill="#30BCED" stroke="black" stroke-width="2"></polygon>
+              </svg>
+            </div>
+            <div id="to-words">
+              <p>Other's behavior</p>
+            </div>
+          </div>
+          <div id="topic-interaction">
+            <div id="ti-shape">
+              <svg width="70px" height="70px">
+                <rect x="18" y="17" width="35" height="35" fill="#30BCED" stroke="black" stroke-width="2"></rect>
+              </svg>
+            </div>
+            <div id="ti-words">
+              <p>Actual interaction</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- degreeOfAwkwardness -> facial expression -->
+      <div id="awkwardness">
+        <div class="line">
+          <svg width="600px" height="400px">
+            <polyline points="435,100 300,155" stroke="black" stroke-width="3"></polyline>
+          </svg>
+        </div>
+        <div id="awkwardness_description">
+          <h1>How awkward I felt: </h1>
+          <div id="al1">
+            <div id="al1-headshot">
+              <svg width="70px" height="70px">
+                <circle cx="30px" cy="30px" r="17" fill="white" stroke="black" stroke-width="2"></circle>
+                <circle cx="23px" cy="30px" r="2" fill="black" stroke="black" stroke-width="2"></circle>
+                <circle cx="37px" cy="30px" r="2" fill="black" stroke="black" stroke-width="2"></circle>
+                <path d="M22,37 Q30,43 38,37" fill="none" stroke="black" stroke-width="2"></path>
+              </svg>
+            </div>
+            <div id="al1-words">
+              <p>A little awkward</p>
+            </div>
+          </div>
+          <div id="al2">
+            <div id="al2-headshot">
+              <svg width="70px" height="70px">
+                <circle cx="30px" cy="30px" r="17" fill="white" stroke="black" stroke-width="2"></circle>
+                <circle cx="22px" cy="30px" r="5" fill="white" stroke="black" stroke-width="2"></circle>
+                <circle cx="22px" cy="30px" r="2.5" fill="black" ></circle>
+                <circle cx="38px" cy="30px" r="5" fill="white" stroke="black" stroke-width="2"></circle>
+                <circle cx="38px" cy="30px" r="2.5" fill="black" ></circle>
+                <polyline points="22,39 38,39" stroke="black" stroke-width="2"></polyline>
+              </svg>
+            </div>
+            <div id="al2-words">
+              <p>Pretty awkward</p>
+            </div>
+          </div>
+          <div id="al3">
+            <div id="al3-headshot">
+              <svg width="70px" height="70px">
+                <circle cx="30px" cy="30px" r="17" fill="white" stroke="black" stroke-width="2"></circle>
+                <circle cx="15px" cy="30px" r="7" fill="white" stroke="black" stroke-width="2"></circle>
+                <circle cx="15px" cy="30px" r="3.5" fill="black" ></circle>
+                <circle cx="45px" cy="30px" r="7" fill="white" stroke="black" stroke-width="2"></circle>
+                <circle cx="45px" cy="30px" r="3.5" fill="black" ></circle>
+                <path d="M22,37 Q23,38 24,37 25,36 26,37 27,38 28,37 29,36 30,37 31,38 32,37 33,36 34,37 35,38 36,37 37,36 38,37" fill="none" stroke="black" stroke-width="2"></path>
+              </svg>
+            </div>
+            <div id="al3-words">
+              <p>Extremely awkward</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- location -> style of the text frame -->
+      <div id="location">
+        <div class="line">
+          <svg width="800px" height="500px">
+            <polyline points="600,1 600,30" stroke="black" stroke-width="3"></polyline>
+          </svg>
+        </div>
+        <div id="location_description">
+          <h1>Where I got those cringe moments:</h1>
+          <div id="location-AB">
+            <div id="la-style">
+              <svg width="50px" height="30px">
+                <rect width="40px" height="20px" fill="white" stroke="black" stroke-width="2" style="stroke-dasharray: 3, 3;"></rect>
+                <rect x="5" y="5" width="30px" height="10px" fill="white" stroke="black" stroke-width="2"></rect>
+              </svg>
+            </div>
+            <div id="la-words">
+              <p>AB</p>
+            </div>
+          </div>
+          <div id="location-Dorm">
+            <div id="ld-style">
+              <svg width="50px" height="30px">
+                <rect width="40px" height="20px" fill="white" stroke="black" stroke-width="2"></rect>
+                <rect x="5" y="5" width="30px" height="10px" fill="white" stroke="black" stroke-width="2"></rect>
+              </svg>
+            </div>
+            <div id="ld-words">
+              <p>Dorm</p>
+            </div>
+          </div>
+          <div id="location-Off-Campus">
+            <div id="lo-style">
+              <svg width="50px" height="30px">
+                <rect width="40px" height="20px" fill="white" stroke="black" stroke-width="2" style="stroke-dasharray: 3, 3;"></rect>
+                <rect x="2" y="2" width="36px" height="16px" fill="white" stroke="black" stroke-width="2"></rect>
+                <rect x="5" y="5" width="30px" height="10px" fill="white" stroke="black" stroke-width="2"></rect>
+              </svg>
+            </div>
+            <div id="lo-words">
+              <p>Off-Campus</p>
+            </div>
+          </div>
+          <div id="location-Virtual">
+            <div id="lv-style">
+              <svg width="50px" height="30px">
+                <rect width="40px" height="20px" fill="white" stroke="black" stroke-width="1"></rect>
+                <rect x="2.5" y="2.5" width="35px" height="15px" fill="white" stroke="black" stroke-width="1"></rect>
+                <rect x="5" y="5" width="30px" height="10px" fill="white" stroke="black" stroke-width="2"></rect>
+              </svg>
+            </div>
+            <div id="lv-words">
+              <p>Virtual</p>
+            </div>
+          </div>
+          <div id="location-Transportation">
+            <div id="lt-style">
+              <svg width="50px" height="30px">
+                <rect width="40px" height="20px" fill="white" stroke="black" stroke-width="2" style="stroke-dasharray: 10, 3;"></rect>
+                <rect x="5" y="5" width="30px" height="10px" fill="white" stroke="black" stroke-width="2"></rect>
+              </svg>
+            </div>
+            <div id="lt-words">
+              <p>Transportation</p>
+            </div>
+          </div>
+        </div>
+      </div>
 
     </div>
 

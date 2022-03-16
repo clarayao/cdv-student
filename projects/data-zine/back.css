@@ -1,0 +1,314 @@
+#container {
+  background-color: #FCF3CF;
+  font-family: 'Anton', sans-serif;
+}
+
+#read {
+  font-family: 'Anton', sans-serif;
+  font-size: 35px;
+  position: absolute;
+  left: 33%;
+  top: 0%;
+}
+
+#readshadow {
+  font-family: 'Anton', sans-serif;
+  font-size: 35px;
+  position: absolute;
+  left: 33.5%;
+  top: 0.5%;
+
+  color: #30BCED;
+}
+
+/* center figure */
+#figureSample {
+  position: absolute;
+  left: 33.5%;
+  top: 20%;
+}
+
+/* successLevelInDealingWithIt --> number of hairs */
+#successLevel {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  top: 0;
+}
+
+#successLevel_description {
+  width: 370px;
+  position: absolute;
+  left: 38%;
+  top: 15%;
+}
+
+#sl1-headshot {
+  position: absolute;
+  left: 10%;
+  top: 83%;
+}
+
+#sl1-words {
+  position: absolute;
+  left: 30%;
+  top: 83%;
+}
+
+#sl2-headshot {
+  position: absolute;
+  left: 10%;
+  top: 125%;
+}
+
+#sl2-words {
+  position: absolute;
+  left: 30%;
+  top: 125%;
+}
+
+#sl3-headshot {
+  position: absolute;
+  left: 10%;
+  top: 167%;
+}
+
+#sl3-words {
+  position: absolute;
+  left: 30%;
+  top: 167%;
+}
+
+/* howDidIDealWithIt --> color of clothes */
+#howDidIDealWithIt {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  top: 42%;
+}
+
+#how_description {
+  position: absolute;
+  left: 38%;
+  top: 0%;
+}
+
+#he-color {
+  position: absolute;
+  left: 18%;
+  top: 94%
+}
+
+#he-words {
+  position: absolute;
+  left: 30%;
+  top: 80%
+}
+
+#ha-color {
+  position: absolute;
+  left: 18%;
+  top: 118%
+}
+
+#ha-words {
+  position: absolute;
+  left: 30%;
+  top: 103%
+}
+
+#hr-color {
+  position: absolute;
+  left: 18%;
+  top: 142%
+}
+
+#hr-words {
+  position: absolute;
+  left: 30%;
+  top: 126%;
+}
+
+/* topic --> shape of the frame */
+#topic {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  left: 3%;
+  top: 13%;
+
+}
+
+#topic_description {
+  width: 350px;
+
+  position: absolute;
+  left: 5%;
+  top: -10%;
+}
+
+#te-shape {
+  position: absolute;
+  left: 10%;
+  top: 80%
+}
+
+#te-words {
+  position: absolute;
+  left: 32%;
+  top: 86%
+}
+
+#to-shape {
+  position: absolute;
+  left: 10%;
+  top: 120%
+}
+
+#to-words {
+  position: absolute;
+  left: 32%;
+  top: 125%
+}
+
+#ti-shape {
+  position: absolute;
+  left: 10%;
+  top: 160%
+}
+
+#ti-words {
+  position: absolute;
+  left: 32%;
+  top: 164%
+}
+
+/* degreeOfAwkwardness --> facial expression */
+#awkwardness {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  left: 6%;
+  top: 36%;
+}
+
+#awkwardness_description {
+  width: 350px;
+
+  position: absolute;
+  left: 5%;
+  top: 20%;
+}
+
+#al1-headshot {
+  position: absolute;
+  left: 10%;
+  top: 70%
+}
+
+#al1-words {
+  position: absolute;
+  left: 32%;
+  top: 72%
+}
+
+#al2-headshot {
+  position: absolute;
+  left: 10%;
+  top: 125%
+}
+
+#al2-words {
+  position: absolute;
+  left: 32%;
+  top: 127%
+}
+
+#al3-headshot {
+  position: absolute;
+  left: 10%;
+  top: 180%
+}
+
+#al3-words {
+  position: absolute;
+  left: 32%;
+  top: 182%
+}
+
+/* location --> style of the text frame */
+#location {
+  width: 1000px;
+  height: 400px;
+  position: absolute;
+  left: 0%;
+  top: 75%;
+}
+
+#location_description {
+  position: absolute;
+  left: 38%;
+  top: 3%;
+}
+
+#la-style {
+  position: absolute;
+  left: 8%;
+  top: 88%
+}
+
+#la-words {
+  position: absolute;
+  left: 20%;
+  top: 66%
+}
+
+#ld-style {
+  position: absolute;
+  left: 8%;
+  top: 124%
+}
+
+#ld-words {
+  position: absolute;
+  left: 20%;
+  top: 102%
+}
+
+#lo-style {
+  position: absolute;
+  left: 78%;
+  top: 88%
+}
+
+#lo-words {
+  position: absolute;
+  left: 90%;
+  top: 66%
+}
+
+#lv-style {
+  position: absolute;
+  left: 40%;
+  top: 88%
+}
+
+#lv-words {
+  position: absolute;
+  left: 52%;
+  top: 66%
+}
+
+#lt-style {
+  position: absolute;
+  left: 40%;
+  top: 124%
+}
+
+#lt-words {
+  position: absolute;
+  left: 52%;
+  top: 102%
+}
