@@ -3,9 +3,9 @@
 ## Predictive Contemporary Systems/Applications
 1. Data-driven software systems used to process HR applications:  
 In an example brought up in Reading 1, "I Data You, You Data Me", a large corporation uses word2vec inside a piece of software to process HR applications and hire employees by comparing the distance between the keywords in the candidates' resume and the expected quality. In this way, the corporation predicted the candidates' future performance in work based on the data in word2vec and then hire their desired candidates.
-2. Caesars Entertainment uses data to determine staffing needs:
+2. Caesars Entertainment uses data to determine staffing needs:  
 | Since customer amount fluctuate a lot from time to time in the entertainment and hospital industries, companies like Caesars Entertainment analyzed data and developed a multiple regression model to decide on the staffing numbers based on the predicted cutomers to avoid overstaffing.
-3. The customer relationship management process predicts consumers' behavior:
+3. The customer relationship management process predicts consumers' behavior:  
 | The customer relationship management process sketches out the consumers' characteristics based on data from different channels such as company's website, telephone, and social media. Then the businesses design business campaignes and strategies based on the consumers' preference to keep their past and present costomers and attract potential customers.
 
 ## Prediction
