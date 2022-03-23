@@ -1,0 +1,2 @@
+In addition to making the datapoints move according to the time change, I also tried to figure out a hover effect in which when hovering on to the circle, the country name of that circle will appear.
+However, I didn't quite succeed in that, because I wasn't able to figure out how to select the text element individually when adding the hover action on the circles. Thus if the name of the country is a bit long, the triggering hovering place would be outside of the circle. 

@@ -1,0 +1,33 @@
+.xaxis line {
+  color: white;
+}
+
+.xaxis path{
+  stroke: white;
+}
+
+.xaxis text{
+  fill: white;
+  font-size: 30;
+}
+
+.yaxis line {
+  color: white;
+}
+
+.yaxis path{
+  stroke: white;
+}
+
+.yaxis text{
+  fill: white;
+}
+
+h1 {
+  color: white;
+  position: absolute;
+  left: 30px;
+  top: 10px;
+  margin-top: 10px;
+  font-size: 50px;
+}
