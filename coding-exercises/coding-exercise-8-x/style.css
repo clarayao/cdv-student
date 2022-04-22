@@ -1,0 +1,59 @@
+#caption{
+    width: 1500px;
+    height: 50px;
+
+    font-size: 45px;
+    color: black;
+
+    position: absolute;
+    top: 1365px;
+    left: 800px;
+}
+
+button{
+  width: 100px;
+  height: 50px;
+
+  position: absolute;
+  top: 1420px;
+
+  color: black;
+  background-color: white;
+
+  font-size: 35px;
+}
+
+#b2010{
+  position: absolute;
+  left: 800px;
+}
+
+#b2011{
+  position: absolute;
+  left: 950px;
+}
+
+#b2012{
+  position: absolute;
+  left: 1100px;
+}
+
+#b2013{
+  position: absolute;
+  left: 1250px;
+}
+
+#b2014{
+  position: absolute;
+  left: 1400px;
+}
+
+#b2015{
+  position: absolute;
+  left: 1550px;
+}
+
+#b2016{
+  position: absolute;
+  left: 1700px;
+}
