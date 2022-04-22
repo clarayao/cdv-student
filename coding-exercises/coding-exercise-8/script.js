@@ -19,6 +19,15 @@ viz.append("text")
       .attr("fill", "white")
   ;
 
+let countryName = viz.append("text")
+                        .text("Country")
+                        .attr("x", 50)
+                        .attr("y", h-padding*2)
+                        .attr("font-size", 100)
+                        .attr("fill", "white")
+;
+
+
 d3.json("countries.geojson").then(function(geoData){
   d3.csv("ny_times_countries.csv").then(nytData)
   function nytData(incomingData){
@@ -122,8 +131,10 @@ d3.json("countries.geojson").then(function(geoData){
     // label.append()
 
 
-    map.filter(d=> d.id != "BMU").on("mouseover", function(d, i){
+    map.filter(d=> d.id != "BMU").on("mouseover", function(event, d){
       d3.select(this).transition().style("opacity", "1");
+      // console.log(d)
+      countryName.text(d.properties.name)
       // d3.select(this).append("text")
       //                             .attr("class", "country")
       //                             .text(incomingData[0].country)
@@ -134,9 +145,10 @@ d3.json("countries.geojson").then(function(geoData){
       //                             .style("opacity", "0")
       // label.transition().style("opacity", "0.8")
     })
-    map.filter(d=> d.id != "BMU").on("mouseout", function(d, i){
+    map.filter(d=> d.id != "BMU").on("mouseout", function(event, d){
       d3.select(this).transition().style("opacity", "0.7")
       // label.transition().style("opacity", "0")
+      countryName.text("Country")
     })
 
     //clicking effect
@@ -166,16 +178,16 @@ d3.json("countries.geojson").then(function(geoData){
                         .attr("fill",d=>"#AED6F1")
     });
 
-    // document.getElementById("b2010").addEventListener("click", function(){
-    //   data = incomingData.slice(2322,2557);
-    //   // console.log(incomingData.slice(0,233))
-    //   nytData(data)
-    // })
-    // document.getElementById("b2011").addEventListener("click", function(){
-    //   data = incomingData.slice(2558,2791);
-    //   console.log(data)
-    //   nytData(data)
-    // })
+    document.getElementById("b2010").addEventListener("click", function(){
+      data = incomingData.filter(d=>d.year==2016);
+      console.log(data)
+      nytData(data)
+    })
+    document.getElementById("b2011").addEventListener("click", function(){
+      data = incomingData.filter(d=>d.year==2017);
+      console.log(data)
+      nytData(data)
+    })
   }
 
 
