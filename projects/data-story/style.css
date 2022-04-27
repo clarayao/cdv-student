@@ -1,0 +1,259 @@
+body{
+  background-color: #323232;
+}
+
+#logo1{
+  position: absolute;
+  top: 270px;
+  left: 700px;
+}
+#logo2{
+  position: absolute;
+  top: 270px;
+  left: 1700px;
+}
+
+#title{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 130px;
+  color: white;
+  text-shadow: 8px 8px #e7be3e;
+
+  text-align: center;
+  left: 50%;
+  margin-bottom: 50px;
+}
+
+#subtitle1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 100px;
+  color: white;
+  text-shadow: 5px 5px #e7be3e;
+
+  text-align: center;
+  left: 50%;
+  margin-bottom: 50px;
+}
+
+h2{
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 30px;
+  color: white;
+
+  text-align: center;
+  left: 50%;
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 100px;
+}
+
+a{
+  color: white;
+}
+
+.division-bar{
+  margin: auto;
+  background-color: white;
+  width: 2200px;
+  height:10px;
+}
+
+#intro{
+  color: white;
+  font-size: 30px;
+  font-family: 'PT Sans Caption', sans-serif;
+  line-height: 1.8;
+
+  width: 1500px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+#directors-diversity{
+  color: white;
+  font-size: 30px;
+  font-family: 'PT Sans Caption', sans-serif;
+  line-height: 1.8;
+
+  width: 1500px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+#graph1{
+  position: absolute;
+  top: 2500px;
+}
+
+#graph1-text{
+  width: 400px;
+  height: 400px;
+
+  position: absolute;
+  top: 2550px;
+  left: 50px;
+
+  padding: 40px;
+  padding-top: 10px;
+
+  background-color: #3b3c3e;
+}
+
+#graph2{
+  position: absolute;
+  top: 3200px;
+}
+#graph2-text{
+  width: 400px;
+  height: 400px;
+
+  position: absolute;
+  top: 3350px;
+  left: 50px;
+
+  padding: 40px;
+  padding-top: 10px;
+
+  background-color: #3b3c3e;
+}
+
+#graph3{
+  position: absolute;
+  top: 4200px;
+}
+#graph3-text{
+  width: 400px;
+  height: 580px;
+
+  position: absolute;
+  top: 4200px;
+  left: 50px;
+
+  padding: 40px;
+  padding-top: 10px;
+
+  background-color: #3b3c3e;
+}
+
+#division-bar3{
+  margin: auto;
+
+  position: relative;
+  top:2700px;
+  background-color: white;
+  width: 2200px;
+  height:10px;
+}
+
+#subtitle2{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 100px;
+  color: white;
+  text-shadow: 5px 5px #e7be3e;
+
+  position: absolute;
+  top: 5100px;
+  left: 30%;
+  margin-bottom: 50px;
+}
+
+#juries-diversity{
+  color: white;
+  font-size: 30px;
+  font-family: 'PT Sans Caption', sans-serif;
+  line-height: 1.8;
+
+  width: 1500px;
+  margin: auto;
+  margin-top: 50px;
+
+  position: relative;
+  top: 3000px;
+}
+
+#graph4{
+  position: absolute;
+  top: 5900px;
+  left: 22.5%
+}
+#graph4-text{
+  color: white;
+  font-size: 30px;
+  font-family: 'PT Sans Caption', sans-serif;
+  line-height: 1.8;
+
+  width: 400px;
+  height: 580px;
+
+  position: absolute;
+  top: 5900px;
+  left: 50px;
+
+  padding: 40px;
+  padding-top: 10px;
+
+  background-color: #3b3c3e;
+}
+
+#graph5{
+  position: absolute;
+  top: 6700px;
+  left: 22.5%
+}
+#graph5-text{
+  color: white;
+  font-size: 30px;
+  font-family: 'PT Sans Caption', sans-serif;
+  line-height: 1.8;
+
+  width: 400px;
+  height: 580px;
+
+  position: absolute;
+  top: 6800px;
+  left: 50px;
+
+  padding: 40px;
+  padding-top: 10px;
+
+  background-color: #3b3c3e;
+}
+
+.venice{
+  position: fixed;
+  left: 2200px;
+  top: 500px;
+}
+
+.canne{
+  position: fixed;
+  left: 2200px;
+  top: 620px;
+}
+
+.berlin{
+  position: fixed;
+  left: 2200px;
+  top: 740px;
+}
+
+.all{
+  position: fixed;
+  left: 2200px;
+  top: 860px;
+}
+
+#logo3{
+  height: 100px;
+
+  position: absolute;
+  top: 7800px;
+  left: 40px;
+}
+
+
+
+/* p{
+  position: absolute;
+  left: 500px;
+} */
