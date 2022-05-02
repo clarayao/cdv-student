@@ -1,0 +1,269 @@
+body{
+  background-color: #323232;
+  color: white;
+}
+a{
+  color: #e7be3e;
+}
+
+.division-line hr{
+  width: 100%;
+  height: 0.2vh;
+  background-color: white;
+  margin-top: 1vh;
+  margin-bottom: 5vh;
+}
+
+.whole-wrapper{
+  width: 100%;
+  max-width: 1200px;
+  padding: 20px;
+  margin: auto;
+  /* outline: 3px dashed rgb(35, 170, 253); */
+}
+
+.headline-wrapper{
+  width: 100%;
+  height:60px;
+  /* background-color: rgb(169, 246, 187); */
+  margin-bottom: 80px;
+  /* position: sticky;
+  top: 0px;
+  z-index: 2; */
+
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 0.5vh 0.5vh #e7be3e;
+  font-size: 3.5vh;
+  text-align: center;
+}
+
+.subheading-wrapper{
+  width: 100%;
+  height:60px;
+
+  font-family: 'PT Sans Caption', sans-serif;
+  text-align: center;
+}
+
+/* .division-line{
+  margin: auto;
+  margin-bottom: 50px;
+  background-color: white;
+  width: 100%;
+  height: 0.5vh;
+} */
+
+.content-wrapper{
+  /* background-color: lightgrey; */
+  max-width: 1000px;
+  margin: auto;
+
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 2vh;
+}
+
+.intro-wrapper{
+  /* background-color: rgb(35, 170, 253); */
+}
+
+.subtitle{
+  margin: auto;
+  margin-bottom: 0vh;
+  padding-top: 0vh;
+
+  font-family: 'Permanent Marker', cursive;
+  font-size: 3vh;
+  text-shadow: 0.4vh 0.4vh #e7be3e;
+}
+
+.division-line2{
+  margin-bottom: 0vh;
+}
+.division-line2 hr{
+  width: 100%;
+  /* height: 0.2vh; */
+  border: 0.2vh dotted white;
+  margin-top: 5vh;
+  /* margin-bottom: 5vh; */
+}
+
+/* Selection */
+.selection-wrapper{
+  /* outline: 8px dashed red; */
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.selection-intro-wrapper{
+  /* background-color: rgb(163, 182, 224); */
+  padding-top: 0;
+}
+
+.gender-wrapper{
+  /* outline: 3px solid black; */
+
+  display: flex;
+  gap: 20px;
+}
+.gender-text-wrapper{
+  background-color: #7B7D7D;
+
+  width: 25%;
+  padding-left: 2vh;
+}
+.gender-visualization-wrapper{
+  /* background-color: rgb(240, 148, 168); */
+
+  width: 66%;
+}
+.gender-visualization-wrapper img{
+  width: 100%;
+}
+
+.region-wrapper{
+  /* outline: 3px solid black; */
+
+  display: flex;
+  gap: 20px;
+}
+.region-text-wrapper{
+  background-color: #7B7D7D;
+
+  width: 25%;
+}
+.region-visualization-wrapper{
+  /* background-color: rgb(240, 148, 168); */
+
+  width: 66%;
+}
+.region-visualization-wrapper img{
+  width: 100%;
+}
+
+.intersection-wrapper{
+  /* outline: 3px solid black; */
+
+  display: flex;
+  gap: 20px;
+}
+.intersection-text-wrapper{
+  background-color: #7B7D7D;
+
+  width: 25%;
+}
+.intersection-visualization-wrapper{
+  /* background-color: rgb(240, 148, 168); */
+
+  width: 66%;
+}
+.intersection-visualization-wrapper img{
+  width: 100%;
+}
+
+/* Juries */
+.jury-wrapper{
+  /* outline: 8px dashed red; */
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.jury-intro-wrapper{
+  /* background-color: rgb(163, 182, 224); */
+}
+
+.jury-only-wrapper{
+  /* outline: 3px solid black; */
+
+  display: flex;
+  gap: 20px;
+}
+.jury-only-text-wrapper{
+  background-color: #7B7D7D;
+
+  width: 25%;
+}
+.jury-only-visualization-wrapper{
+  /* background-color: rgb(240, 148, 168); */
+
+  width: 66%;
+}
+.jury-only-visualization-wrapper img{
+  width: 100%;
+}
+
+.comparison-wrapper{
+  /* outline: 3px solid black; */
+
+  display: flex;
+  gap: 20px;
+}
+.comparison-text-wrapper{
+  background-color: #7B7D7D;
+
+  width: 25%;
+}
+.comparison-visualization-wrapper{
+  /* background-color: lightgreen; */
+
+  display: flex;
+  gap: 20px;
+  width: 66%;
+}
+.comparison-jury-wrapper{
+  /* background-color: rgb(240, 148, 168); */
+
+  width: 49%;
+}
+.comparison-jury-wrapper img{
+  width: 100%;
+}
+.comparison-selection-wrapper{
+  /* background-color: rgb(240, 148, 168); */
+
+  width: 49%;
+}
+.comparison-selection-wrapper img{
+  width: 100%;
+}
+
+.buttons-wrapper{
+  /* background-color: rgb(246, 244, 169); */
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 10%;
+}
+.venice-button{
+  /* background-color: rgb(204, 225, 210); */
+}
+.venice-button input{
+  width: 100%;
+}
+.canne-button{
+  /* background-color: rgb(204, 225, 210); */
+}
+.canne-button input{
+  width: 100%;
+}
+.berlin-button{
+  /* background-color: rgb(204, 225, 210); */
+}
+.berlin-button input{
+  width: 100%;
+}
+.all-button{
+  /* background-color: rgb(204, 225, 210); */
+}
+.all-button input{
+  width: 100%;
+}
+
+.ending-wrapper{
+  height: 120px;
+  /* background-color: rgb(169, 246, 187); */
+  margin-top: 50px;
+  margin-bottom: 50vh;
+}
