@@ -16,7 +16,7 @@ a{
 
 .whole-wrapper{
   width: 100%;
-  max-width: 1500px;
+  max-width: 2000px;
   padding: 20px;
   margin: auto;
   /* outline: 3px dashed rgb(35, 170, 253); */
@@ -55,7 +55,7 @@ a{
 
 .content-wrapper{
   /* background-color: lightgrey; */
-  max-width: 1300px;
+  max-width: 1500px;
   margin: auto;
 
   font-family: 'PT Sans Caption', sans-serif;
