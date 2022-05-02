@@ -16,7 +16,7 @@ a{
 
 .whole-wrapper{
   width: 100%;
-  max-width: 1200px;
+  max-width: 1500px;
   padding: 20px;
   margin: auto;
   /* outline: 3px dashed rgb(35, 170, 253); */
@@ -55,7 +55,7 @@ a{
 
 .content-wrapper{
   /* background-color: lightgrey; */
-  max-width: 1000px;
+  max-width: 1300px;
   margin: auto;
 
   font-family: 'PT Sans Caption', sans-serif;
@@ -109,7 +109,7 @@ a{
 .gender-text-wrapper{
   background-color: #7B7D7D;
 
-  width: 25%;
+  width: 23%;
   padding-left: 2vh;
 }
 .gender-visualization-wrapper{
@@ -234,7 +234,7 @@ a{
   display: flex;
   flex-direction: column;
   gap: 20px;
-  width: 10%;
+  width: 7%;
 }
 .venice-button{
   /* background-color: rgb(204, 225, 210); */
