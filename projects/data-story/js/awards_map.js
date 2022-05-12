@@ -1,11 +1,15 @@
 let mapW = d3.select(".map-viz").style("width").split("px").shift();
-let mapH = 1200;
+let mapH = mapW*2/3;
 let mapPadding = 0;
 
 let mapViz = d3.select(".map-viz").append("svg")
               .style("width", mapW)
               .style("height", mapH)
               .style("background-color", "#323232")
+              // .call(d3.zoom().on("zoom", function () {
+              //   console.log(event);
+       // mapViz.attr("transform", d3.event.transform)
+    // }))
 ;
 
 let countryName = mapViz.append("text")
@@ -63,6 +67,14 @@ d3.json("data/countries.geojson").then(function(geoData){
                       .attr("stroke", "white")
                       .attr("stroke-width", 1)
       ;
+      // var zoom = d3.zoom()
+      //           .scaleExtent([1, 8])
+      //           .on('zoom', function() {
+      //             // console.log(event);
+      //               mapGroup.selectAll('path')
+      //                .attr('transform', "translate(" + event.translate + ")scale(" + event.scale + ")");
+      //     });
+      // mapViz.call(zoom)
 
       function mapCaption(caption){
         // console.log(caption)
