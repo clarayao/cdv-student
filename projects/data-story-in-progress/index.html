@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title></title>
+
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Caption&family=Permanent+Marker&family=swap" rel="stylesheet">
+
+    <!-- include the d3 library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+  </head>
+  <body>
+    <div class="whole-wrapper">
+      <div class="header-wrapper">
+        <div class="headline-wrapper">
+          <h1>Whose Stories Get to be Heard?</h1>
+        </div>
+        <div class="subheading-wrapper">
+          <h2>How diverse is the "Big Three" film festivals?</h2>
+        </div>
+        <div class="division-line"><hr></div>
+      </div>
+      <div class="content-wrapper">
+        <div class="intro-wrapper">
+          <p>The issue of diversity in the film industry has always been a hot but unarguable topic. And because of the nature of storytelling and entertainment for the mass audience of films, this lack of diversity ultimately leads to the question of <b>“who gets to tell the stories”</b> and <b>“whose stories get to be heard”</b>, which could consolidate inequalities to some extent.
+          </p>
+          <p>As a vital assessment of quality and success in filmmaking, <b>film festivals</b> seem to be a practical point to look at the diversity of this industry. However, interestingly, many debates on this issue focus on <a href="https://news.sky.com/story/oscars-2022-diversity-v-data-what-analysis-of-93-years-of-winners-tells-us-about-the-academy-awards-11635455"><b>the Oscar</b></a>, an award mainly focuses on the American film industry (starting to gear towards international only in recent years). It’s reasonable since the USA is a country with diverse populations. Still, it also seems unfair to criticize so much on a film festival that is mainly limited to one country. I believe that <a href="https://timesupfoundation.org/wp-content/uploads/2020/01/aii-inclusion-film-festivals-20200127.pdf"><b>the film festivals</b></a> that aim to award excellent films internationally should also be brought to the center of debates and analyses on diversity and inclusion since they also share the same problem.
+          </p>
+          <p>Thus, I wonder: <b>Are these international film festivals diverse enough?</b> If not, <b>what might be the reason for their lack of diversity?</b> To answer these questions, this data story will try to visualize the troubling status-quo of the diversity in these film festivals and explore a possible answer to why this happens.</p>
+        </div>
+        <div class="division-line2"><hr></div>
+        <div class="selection-wrapper">
+          <div class="subtitle">
+            <h1>Diversity of the directors</h1>
+          </div>
+          <div class="selection-intro-wrapper">
+            <p>This data story will focus on the “Big Three”, namely, the Venice, Cannes, and Berlin International Festival because these are the most prestigious film festivals globally. I believe their diversity could be a persuasive evidence of the status quo in this industry worldwide. And simultaneously, as these three film festivals also concentrate on different perspectives of the film (artistic and commercial achievements for Cannes, political and social value for Berlin, and a combination of all in Venice), I think it’ll be effective to showcase the inclusiveness in movies of different topics. </p>
+            <p>And because of the storytelling nature of film, the following part wil focus on the diversity of the directors, since they are the one whom the biggest award of the film festivals goes to and one of the most important person of filmmaking that they pretty much decides what stories will be told in the film.</p>
+          </div>
+          <div class="selection-main-wrapper">
+
+            <div class="selection-visualization-wrapper">
+              <div class="gender-wrapper">
+                <div class="gender-text-wrapper">
+                  <p>First, let's look at the diversity of gender.</p>
+                  <p>Here, pink represents the female directors that have won the prize, while blue represents male.</p>
+                </div>
+                <div class="gender-viz-wrapper">
+                  <div class="gender-visualization-wrapper">
+
+                  </div>
+                  <div class="invisible-buffer"></div>
+                </div>
+              </div>
+              <div class="map-wrapper">
+                <div class="map-text-wrapper">
+                  <p>First, let's look at the diversity of gender.</p>
+                  <p>Here, pink represents the female directors that have won the prize, while blue represents male.</p>
+                </div>
+                <div class="map-viz-wrapper">
+                  <div class="map-visualization-wrapper">
+
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <!-- <div class="year-buttons">
+                    <div class="2012">
+                      <input type="button" name="2012" value="2012" id="2012">
+                    </div>
+                    <div class="2013">
+                      <input type="button" name="2013" value="2013" id="2013">
+                    </div>
+                    <div class="2014">
+                      <input type="button" name="2014" value="2014" id="2014">
+                    </div>
+                    <div class="2015">
+                      <input type="button" name="2015" value="2015" id="2015">
+                    </div>
+                    <div class="2016">
+                      <input type="button" name="2016" value="2016" id="2016">
+                    </div>
+                    <div class="2017">
+                      <input type="button" name="2017" value="2017" id="2017">
+                    </div>
+                    <div class="2018">
+                      <input type="button" name="2018" value="2018" id="2018">
+                    </div>
+                    <div class="2019">
+                      <input type="button" name="2019" value="2019" id="2019">
+                    </div>
+                    <div class="2020">
+                      <input type="button" name="2020" value="2020" id="2020">
+                    </div>
+                    <div class="2021">
+                      <input type="button" name="2021" value="2021" id="2021">
+                    </div>
+                  </div> -->
+                </div>
+              </div>
+              <div class="intersection-wrapper">
+                <div class="intersection-text-wrapper">
+                  <p>First, let's look at the diversity of gender.</p>
+                  <p>Here, pink represents the female directors that have won the prize, while blue represents male.</p>
+                </div>
+                <div class="intersection-viz-wrapper">
+                  <div class="intersection-visualization-wrapper">
+
+                  </div>
+                  <div class="invisible-buffer"></div>
+                </div>
+              </div>
+            </div>
+            <div class="buttons">
+              <div class="buttons-wrapper">
+                <div class="venice-button" id="selection-venice-button">
+                  <input class="venice" type="image" src="image/venice-button.png">
+                </div>
+                <div class="canne-button" id="selection-cannes-button">
+                  <input class="canne" type="image" src="image/canne-button.png">
+                </div>
+                <div class="berlin-button" id="selection-berlin-button">
+                  <input class="berlin" type="image" src="image/berlin-button.png">
+                </div>
+                <div class="all-button" id="selection-all-button">
+                  <input class="all" type="image" src="image/all-button.png">
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+          </div>
+        </div>
+        <div class="division-line2"><hr></div>
+        <div class="jury-wrapper">
+          <div class="subtitle">
+            <h1>Diversity of the juries</h1>
+          </div>
+          <div class="jury-intro-wrapper">
+            <p>In the last section, we saw how not diverse in terms of sex and nationality is in the "Big Three" film festivals. But why does this happen?</p>
+            <p>The diversity of the juries might be an answer to this. Because juries are the ones who decides who are winning and whose films got to be seem by the wider audience. However, can the diversity of the juries really explain why these film festivals lack diversity? Let's find out!</p>
+          </div>
+          <div class="jury-main-wrapper">
+            <div class="jury-visualization-wrapper">
+              <div class="jury-only-wrapper">
+                <div class="jury-only-text-wrapper">
+                  <p>Here, we can see the diversity of gender and nationality of the juries</p>
+                  <p>Like before, each dot represents one director from this region won a prize. And the pink dots repesents female directors, while blue ones represents male.</p>
+                </div>
+                <div class="jury-only-viz-wrapper">
+                  <div class="jury-only-visualization-wrapper">
+                    <!-- <img src="image/graph4.jpg"> -->
+                  </div>
+                  <div class="invisible-buffer"></div>
+                </div>
+              </div>
+              <div class="comparison-wrapper">
+                <div class="comparison-text-wrapper">
+                  <p>Lastly, let's compare the diversity of the award winners and juries.</p>
+                  <p>In the graph, comparison is made within each year. You could drag the slider below to see different years.</p>
+                </div>
+                <div class="comaprison-viz-wrapper">
+                  <div class="comparison-visualization-wrapper">
+                    <div class="comparison-jury-wrapper">
+                      <img src="image/graph5.jpg">
+                    </div>
+                    <div class="comparison-selection-wrapper">
+                      <img src="image/graph5.jpg" width="1500px">
+                    </div>
+                    <div class="invisible-buffer"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="buttons">
+              <div class="buttons-wrapper">
+                <div class="venice-button" id="jury-venice-button">
+                  <input class="venice" type="image" src="image/venice-button.png">
+                </div>
+                <div class="canne-button" id="jury-cannes-button">
+                  <input class="canne" type="image" src="image/canne-button.png">
+                </div>
+                <div class="berlin-button" id="jury-berlin-button">
+                  <input class="berlin" type="image" src="image/berlin-button.png">
+                </div>
+                <div class="all-button" id="jury-all-button">
+                  <input class="all" type="image" src="image/all-button.png">
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+      <div class="ending-wrapper">
+        <div class="division-line"><hr></div>
+        <p>Ending</p>
+      </div>
+    </div>
+    <!-- our main script: -->
+    <script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript" src="awards_gender.js"></script>
+    <script type="text/javascript" src="awards_map.js"></script>
+    <script type="text/javascript" src="awards_intersection.js"></script>
+    <script type="text/javascript" src="jury_only.js"></script>
+  </body>
+</html>

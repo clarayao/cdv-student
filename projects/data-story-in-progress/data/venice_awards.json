@@ -1,0 +1,3298 @@
+[
+    {
+        "year": 2012,
+        "movie_name": "At Any Price",
+        "movie_url": "https://en.wikipedia.org//wiki/At_Any_Price",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/36/At_Any_Price_poster.jpg",
+        "director": [
+            {
+                "director_name": "Ramin Bahrani",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Ramin_Bahrani"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Betrayal",
+        "movie_url": "https://en.wikipedia.org//wiki/Betrayal_(2012_film)",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Betrayal_%282012_film%29.jpg/220px-Betrayal_%282012_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Kirill Serebrennikov",
+                "nationality": "Russia",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Kirill_Serebrennikov"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Dormant Beauty",
+        "movie_url": "https://en.wikipedia.org//wiki/Dormant_Beauty",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/c2/Bella_Addormentata_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Marco Bellocchio",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Marco_Bellocchio"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "The Fifth Season",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Fifth_Season_(film)",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/The_Fifth_Season_%28film%29.jpg/220px-The_Fifth_Season_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Peter Brosens",
+                "nationality": "Belgium",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//w/index.php?title=Peter_Brosens&action=edit&redlink=1"
+            },
+            {
+                "director_name": "Jessica Woodworth",
+                "nationality": "United States of America",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//w/index.php?title=Jessica_Woodworth&action=edit&redlink=1"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Fill the Void",
+        "movie_url": "https://en.wikipedia.org//wiki/Fill_the_Void",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png",
+        "director": [
+            {
+                "director_name": "Rama Burshtein",
+                "nationality": "Israel",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 3,
+                "page_link": "https://en.wikipedia.org//wiki/Rama_Burshtein"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "It Was the Son",
+        "movie_url": "https://en.wikipedia.org//wiki/It_Was_the_Son",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/%C3%88_stato_il_figlio.jpg/220px-%C3%88_stato_il_figlio.jpg",
+        "director": [
+            {
+                "director_name": "Daniele Cipr\u00ec",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Daniele_Cipr%C3%AC"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Lines of Wellington",
+        "movie_url": "https://en.wikipedia.org//wiki/Lines_of_Wellington",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/04/Linhas_de_Wellington_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Valeria Sarmiento",
+                "nationality": "Chile",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 7,
+                "page_link": "https://en.wikipedia.org//wiki/Valeria_Sarmiento"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "The Master",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Master_(2012_film)",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/TheMaster2012Poster.jpg",
+        "director": [
+            {
+                "director_name": "Paul Thomas Anderson",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Paul_Thomas_Anderson"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Outrage Beyond",
+        "movie_url": "https://en.wikipedia.org//wiki/Outrage_Beyond",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Beyond_Outrage_US_Poster.jpg/220px-Beyond_Outrage_US_Poster.jpg",
+        "director": [
+            {
+                "director_name": "Takeshi Kitano",
+                "nationality": "Japan",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Takeshi_Kitano"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Paradise: Faith",
+        "movie_url": "https://en.wikipedia.org//wiki/Paradise:_Faith",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Paradise_Faith.jpg/220px-Paradise_Faith.jpg",
+        "director": [
+            {
+                "director_name": "Ulrich Seidl",
+                "nationality": "Austria",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Ulrich_Seidl"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Passion",
+        "movie_url": "https://en.wikipedia.org//wiki/Passion_(2012_film)",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/Passion_%282012_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Brian De Palma",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Brian_De_Palma"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Piet\u00e0",
+        "movie_url": "https://en.wikipedia.org//wiki/Piet%C3%A0_(film)",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Pieta_poster.jpg/220px-Pieta_poster.jpg",
+        "director": [
+            {
+                "director_name": "Kim Ki-duk",
+                "nationality": "South Korea",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Kim_Ki-duk"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Something in the Air",
+        "movie_url": "https://en.wikipedia.org//wiki/Something_in_the_Air_(2012_film)",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Something_in_the_Air_poster.jpg/220px-Something_in_the_Air_poster.jpg",
+        "director": [
+            {
+                "director_name": "Olivier Assayas",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Olivier_Assayas"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "A Special Day (aka)",
+        "movie_url": "https://en.wikipedia.org//wiki/Un_giorno_speciale",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Un-giorno-speciale.jpg/220px-Un-giorno-speciale.jpg",
+        "director": [
+            {
+                "director_name": "Francesca Comencini",
+                "nationality": "Italy",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 3,
+                "page_link": "https://en.wikipedia.org//wiki/Francesca_Comencini"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Spring Breakers",
+        "movie_url": "https://en.wikipedia.org//wiki/Spring_Breakers",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/ae/Spring_Breakers_poster.jpg",
+        "director": [
+            {
+                "director_name": "Harmony Korine",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Harmony_Korine"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Superstar",
+        "movie_url": "https://en.wikipedia.org//wiki/Superstar_(2012_film)",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Superstar_%282012_film%29.jpg/220px-Superstar_%282012_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Xavier Giannoli",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Xavier_Giannoli"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "Thy Womb",
+        "movie_url": "https://en.wikipedia.org//wiki/Thy_Womb",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Thy-Womb-poster.jpeg/220px-Thy-Womb-poster.jpeg",
+        "director": [
+            {
+                "director_name": "Brillante Mendoza",
+                "nationality": "Philippines",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Brillante_Mendoza"
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "movie_name": "To the Wonder",
+        "movie_url": "https://en.wikipedia.org//wiki/To_the_Wonder",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/To_The_Wonder_US_Theatrical_Release_Poster%2C_2013.jpg/220px-To_The_Wonder_US_Theatrical_Release_Poster%2C_2013.jpg",
+        "director": [
+            {
+                "director_name": "Terrence Malick",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Terrence_Malick"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Ana Arabia",
+        "movie_url": "https://en.wikipedia.org//wiki/Ana_Arabia",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/3/3d/Ana_Arabia.jpg/220px-Ana_Arabia.jpg",
+        "director": [
+            {
+                "director_name": "Amos Gitai",
+                "nationality": "Israel",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Amos_Gitai"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Child of God",
+        "movie_url": "https://en.wikipedia.org//wiki/Child_of_God_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/99/Child_of_God_poster.jpg/220px-Child_of_God_poster.jpg",
+        "director": [
+            {
+                "director_name": "James Franco",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/James_Franco"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Intrepido: A Lonely Hero (aka)",
+        "movie_url": "https://en.wikipedia.org//wiki/L%27intrepido",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/2a/L%27intrepido_film.jpg/220px-L%27intrepido_film.jpg",
+        "director": [
+            {
+                "director_name": "Gianni Amelio",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Gianni_Amelio"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Jealousy",
+        "movie_url": "https://en.wikipedia.org//wiki/Jealousy_(2013_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/a/a1/La_Jalousie_%28film%29.jpg/220px-La_Jalousie_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Philippe Garrel",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Philippe_Garrel"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Joe",
+        "movie_url": "https://en.wikipedia.org//wiki/Joe_(2013_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/3/3c/Joe_%282013_film%29_poster.jpg/220px-Joe_%282013_film%29_poster.jpg",
+        "director": [
+            {
+                "director_name": "David Gordon Green",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 5,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/David_Gordon_Green"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Miss Violence",
+        "movie_url": "https://en.wikipedia.org//wiki/Miss_Violence",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/5/56/Miss_Violence.jpg/220px-Miss_Violence.jpg",
+        "director": [
+            {
+                "director_name": "Alexandros Avranas",
+                "nationality": "Greece",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Alexandros_Avranas"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Night Moves",
+        "movie_url": "https://en.wikipedia.org//wiki/Night_Moves_(2013_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/2b/Night_moves_poster.jpg/220px-Night_moves_poster.jpg",
+        "director": [
+            {
+                "director_name": "Kelly Reichardt",
+                "nationality": "United States of America",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 2,
+                "page_link": "https://en.wikipedia.org//wiki/Kelly_Reichardt"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Parkland",
+        "movie_url": "https://en.wikipedia.org//wiki/Parkland_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/5/52/Parkland_poster.jpg",
+        "director": [
+            {
+                "director_name": "Peter Landesman",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Peter_Landesman"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Philomena",
+        "movie_url": "https://en.wikipedia.org//wiki/Philomena_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/25/Philomena_poster.jpg/220px-Philomena_poster.jpg",
+        "director": [
+            {
+                "director_name": "Stephen Frears",
+                "nationality": "United Kingdom",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Stephen_Frears"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "The Police Officer's Wife",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Police_Officer%27s_Wife",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/16/The_Police_Officer%27s_Wife.jpg/220px-The_Police_Officer%27s_Wife.jpg",
+        "director": [
+            {
+                "director_name": "Philip Gr\u00f6ning",
+                "nationality": "Germany",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Philip_Gr%C3%B6ning"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "The Rooftops",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Rooftops_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png",
+        "director": [
+            {
+                "director_name": "Merzak Allouache",
+                "nationality": "Algeria",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Merzak_Allouache"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Sacro GRA",
+        "movie_url": "https://en.wikipedia.org//wiki/Sacro_GRA",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/5/52/Sacro_GRA.jpg/220px-Sacro_GRA.jpg",
+        "director": [
+            {
+                "director_name": "Gianfranco Rosi",
+                "nationality": "Italy, United States of America",
+                "gender": "male",
+                "he_count": 5,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Gianfranco_Rosi_(director)"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Stray Dogs",
+        "movie_url": "https://en.wikipedia.org//wiki/Stray_Dogs_(2013_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/f/f4/Stray_Dogs_%282013_film%29.png/220px-Stray_Dogs_%282013_film%29.png",
+        "director": [
+            {
+                "director_name": "Tsai Ming-liang",
+                "nationality": "Malaysia",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Tsai_Ming-liang"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Tom at the Farm",
+        "movie_url": "https://en.wikipedia.org//wiki/Tom_at_the_Farm",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/3/35/Tom_at_the_Farm.jpg/220px-Tom_at_the_Farm.jpg",
+        "director": [
+            {
+                "director_name": "Xavier Dolan",
+                "nationality": "Canada",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Xavier_Dolan"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Tracks",
+        "movie_url": "https://en.wikipedia.org//wiki/Tracks_(2013_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/1c/Tracks_2013.jpg/220px-Tracks_2013.jpg",
+        "director": [
+            {
+                "director_name": "John Curran",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/John_Curran_(director)"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Under the Skin",
+        "movie_url": "https://en.wikipedia.org//wiki/Under_the_Skin_(2013_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/6/64/Under_the_Skin_poster.png",
+        "director": [
+            {
+                "director_name": "Jonathan Glazer",
+                "nationality": "United Kingdom",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Jonathan_Glazer"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "The Unknown Known",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Unknown_Known",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/7/78/The_Unknown_Known_poster.jpg/220px-The_Unknown_Known_poster.jpg",
+        "director": [
+            {
+                "director_name": "Errol Morris",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Errol_Morris"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "Via Castellana Bandiera",
+        "movie_url": "https://en.wikipedia.org//wiki/Via_Castellana_Bandiera",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/b/b0/Via_Castellana_Bandiera.jpg/220px-Via_Castellana_Bandiera.jpg",
+        "director": [
+            {
+                "director_name": "Emma Dante",
+                "nationality": "Italy",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 3,
+                "page_link": "https://en.wikipedia.org//wiki/Emma_Dante"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "The Wind Rises",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Wind_Rises",
+        "poster": "//upload.wikimedia.org/wikipedia/en/a/a3/Kaze_Tachinu_poster.jpg",
+        "director": [
+            {
+                "director_name": "Hayao Miyazaki",
+                "nationality": "Japan",
+                "gender": "male",
+                "he_count": 8,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Hayao_Miyazaki"
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "movie_name": "The Zero Theorem",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Zero_Theorem",
+        "poster": "//upload.wikimedia.org/wikipedia/en/5/59/The_Zero_Theorem_poster.jpg",
+        "director": [
+            {
+                "director_name": "Terry Gilliam",
+                "nationality": "United Kingdom",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Terry_Gilliam"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "99 Homes",
+        "movie_url": "https://en.wikipedia.org//wiki/99_Homes",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/e/ed/99_Homes_Movie_Poster.jpg/220px-99_Homes_Movie_Poster.jpg",
+        "director": [
+            {
+                "director_name": "Ramin Bahrani",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Ramin_Bahrani"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "movie_url": "https://en.wikipedia.org//wiki/Birdman_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/6/63/Birdman_poster.png",
+        "director": [
+            {
+                "director_name": "Alejandro González Iñárritu",
+                "nationality": "Mexico",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Black Souls",
+        "movie_url": "https://en.wikipedia.org//wiki/Black_Souls",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/0/01/Anime_nere_poster.jpg/220px-Anime_nere_poster.jpg",
+        "director": [
+            {
+                "director_name": "Francesco Munzi",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Francesco_Munzi"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "The Cut",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Cut_(2014_drama_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/2a/The_cut_poster.jpg/220px-The_cut_poster.jpg",
+        "director": [
+            {
+                "director_name": "Fatih Akin",
+                "nationality": "Germany",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Fatih_Akin"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Far from Men",
+        "movie_url": "https://en.wikipedia.org//wiki/Far_from_Men",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/5/53/Far-from-men-poster.jpg/220px-Far-from-men-poster.jpg",
+        "director": [
+            {
+                "director_name": "David Oelhoffen",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/David_Oelhoffen"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Fires on the Plain",
+        "movie_url": "https://en.wikipedia.org//wiki/Fires_on_the_Plain_(2014_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/5/5e/Fires_on_the_Plain_%282014_film%29.jpg/220px-Fires_on_the_Plain_%282014_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Shinya Tsukamoto",
+                "nationality": "Japan",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Shinya_Tsukamoto"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Good Kill",
+        "movie_url": "https://en.wikipedia.org//wiki/Good_Kill",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/a/aa/Good_Kill_poster.jpg/220px-Good_Kill_poster.jpg",
+        "director": [
+            {
+                "director_name": "Andrew Niccol",
+                "nationality": "New Zealand",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Andrew_Niccol"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Hungry Hearts",
+        "movie_url": "https://en.wikipedia.org//wiki/Hungry_Hearts_(2014_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/8/85/Hungry_Hearts_%282014_film%29Locandina.jpg/220px-Hungry_Hearts_%282014_film%29Locandina.jpg",
+        "director": [
+            {
+                "director_name": "Saverio Costanzo",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Saverio_Costanzo"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "The Last Hammer Blow",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Last_Hammer_Blow",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/24/Le_Dernier_Coup_de_marteau.jpg/220px-Le_Dernier_Coup_de_marteau.jpg",
+        "director": [
+            {
+                "director_name": "Alix Delaporte",
+                "nationality": "France",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 2,
+                "page_link": "https://en.wikipedia.org//wiki/Alix_Delaporte"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Leopardi",
+        "movie_url": "https://en.wikipedia.org//wiki/Leopardi_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/d/d2/Leopardi_%28film%29.jpg/220px-Leopardi_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Mario Martone",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Mario_Martone"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "The Look of Silence",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Look_of_Silence",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Look_of_Silence_%282014_film%29.jpg/220px-The_Look_of_Silence_%282014_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Joshua Oppenheimer",
+                "nationality": "United Kingdom",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Joshua_Oppenheimer"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Manglehorn",
+        "movie_url": "https://en.wikipedia.org//wiki/Manglehorn",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/13/Manglehorn.jpg/220px-Manglehorn.jpg",
+        "director": [
+            {
+                "director_name": "David Gordon Green",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 5,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/David_Gordon_Green"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Pasolini",
+        "movie_url": "https://en.wikipedia.org//wiki/Pasolini_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/25/Pasolini-Abel-Ferrara.jpg/220px-Pasolini-Abel-Ferrara.jpg",
+        "director": [
+            {
+                "director_name": "Abel Ferrara",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 5,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Abel_Ferrara"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "A Pigeon Sat on a Branch Reflecting on Existence",
+        "movie_url": "https://en.wikipedia.org//wiki/A_Pigeon_Sat_on_a_Branch_Reflecting_on_Existence",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/c/c4/A-pigeon-sat-on-a-branch-reflecting-on-existence-148-Afis.jpg/220px-A-pigeon-sat-on-a-branch-reflecting-on-existence-148-Afis.jpg",
+        "director": [
+            {
+                "director_name": "Roy Andersson",
+                "nationality": "Sweden",
+                "gender": "male",
+                "he_count": 8,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Roy_Andersson"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "The Postman's White Nights",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Postman%27s_White_Nights",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/b/b4/The_Postman%27s_White_Nights.jpg/220px-The_Postman%27s_White_Nights.jpg",
+        "director": [
+            {
+                "director_name": "Andrei Konchalovsky",
+                "nationality": "Russia",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Andrei_Konchalovsky"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "The Price of Fame",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Price_of_Fame_(2014_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/6f/La_Ran%C3%A7on_de_la_gloire.jpg/220px-La_Ran%C3%A7on_de_la_gloire.jpg",
+        "director": [
+            {
+                "director_name": "Xavier Beauvois",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Xavier_Beauvois"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Red Amnesia",
+        "movie_url": "https://en.wikipedia.org//wiki/Red_Amnesia",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/c/c7/Red_Amnesia.jpg/220px-Red_Amnesia.jpg",
+        "director": [
+            {
+                "director_name": "Wang Xiaoshuai",
+                "nationality": "China",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Wang_Xiaoshuai"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Sivas",
+        "movie_url": "https://en.wikipedia.org//wiki/Sivas_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sivas_%28film%29.jpg/220px-Sivas_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Kaan M\u00fcjdeci",
+                "nationality": "Turkey",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Kaan_M%C3%BCjdeci"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Tales",
+        "movie_url": "https://en.wikipedia.org//wiki/Tales_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/10/Ghesse-ha_movie_poster.jpg/220px-Ghesse-ha_movie_poster.jpg",
+        "director": [
+            {
+                "director_name": "Rakhshan Bani-E'temad",
+                "nationality": "Iran",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 7,
+                "page_link": "https://en.wikipedia.org//wiki/Rakhshan_Bani-E%27temad"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "movie_name": "Three Hearts",
+        "movie_url": "https://en.wikipedia.org//wiki/Three_Hearts_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/f/f0/3_c%C5%93urs_poster.jpg",
+        "director": [
+            {
+                "director_name": "Beno\u00eet Jacquot",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Beno%C3%AEt_Jacquot"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "11 Minutes",
+        "movie_url": "https://en.wikipedia.org//wiki/11_Minutes_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/3/3e/11_Minutes_poster.png/220px-11_Minutes_poster.png",
+        "director": [
+            {
+                "director_name": "Jerzy Skolimowski",
+                "nationality": "Poland",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Jerzy_Skolimowski"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Anomalisa",
+        "movie_url": "https://en.wikipedia.org//wiki/Anomalisa_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/0/0f/Anomalisa_poster.jpg/220px-Anomalisa_poster.jpg",
+        "director": [
+            {
+                "director_name": "Charlie Kaufman",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Charlie_Kaufman"
+            },
+            {
+                "director_name": "Duke Johnson",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 9,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Duke_Johnson_(director)"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Beasts of No Nation",
+        "movie_url": "https://en.wikipedia.org//wiki/Beasts_of_No_Nation_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/c/cf/Beasts_of_No_Nation_poster.jpg",
+        "director": [
+            {
+                "director_name": "Cary Fukunaga",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Cary_Fukunaga"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Behemoth",
+        "movie_url": "https://en.wikipedia.org//wiki/Behemoth_(2015_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/7/74/Behemoth_poster.jpg/220px-Behemoth_poster.jpg",
+        "director": [
+            {
+                "director_name": "Zhao Liang",
+                "nationality": "China",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Zhao_Liang_(director)"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "A Bigger Splash",
+        "movie_url": "https://en.wikipedia.org//wiki/A_Bigger_Splash_(2015_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/c/c0/A_Bigger_Splash_poster.jpg/220px-A_Bigger_Splash_poster.jpg",
+        "director": [
+            {
+                "director_name": "Luca Guadagnino",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Luca_Guadagnino"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Blood of My Blood",
+        "movie_url": "https://en.wikipedia.org//wiki/Blood_of_My_Blood_(2015_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/b/b2/Blood_of_My_Blood_%282015_film%29.jpg/220px-Blood_of_My_Blood_%282015_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Marco Bellocchio",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Marco_Bellocchio"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "The Clan",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Clan_(2015_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/8/8f/The_Clan_%282015_film%29.jpg/220px-The_Clan_%282015_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Pablo Trapero",
+                "nationality": "Argentina",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Pablo_Trapero"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Courted",
+        "movie_url": "https://en.wikipedia.org//wiki/Courted_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/0/02/Hermine-affiche.jpg/220px-Hermine-affiche.jpg",
+        "director": [
+            {
+                "director_name": "Christian Vincent",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Christian_Vincent_(director)"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "The Danish Girl",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Danish_Girl_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/f/f2/The_Danish_Girl_%28film%29_poster.jpg/220px-The_Danish_Girl_%28film%29_poster.jpg",
+        "director": [
+            {
+                "director_name": "Tom Hooper",
+                "nationality": "United Kingdom, Australia",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Tom_Hooper"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "The Endless River",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Endless_River_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/d/dd/The_Endless_River_film_poster.png/220px-The_Endless_River_film_poster.png",
+        "director": [
+            {
+                "director_name": "Oliver Hermanus",
+                "nationality": "South Africa",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Oliver_Hermanus"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Equals",
+        "movie_url": "https://en.wikipedia.org//wiki/Equals_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/6d/Equals_Movie.jpeg/220px-Equals_Movie.jpeg",
+        "director": [
+            {
+                "director_name": "Drake Doremus",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Drake_Doremus"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "For Your Love",
+        "movie_url": "https://en.wikipedia.org//wiki/Per_amor_vostro",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/e/eb/Per_amor_vostro_poster.jpg/220px-Per_amor_vostro_poster.jpg",
+        "director": [
+            {
+                "director_name": "Giuseppe M. Gaudino",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Giuseppe_M._Gaudino"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Francofonia",
+        "movie_url": "https://en.wikipedia.org//wiki/Francofonia",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/5/56/Francofonia_poster.jpg/220px-Francofonia_poster.jpg",
+        "director": [
+            {
+                "director_name": "Alexander Sokurov",
+                "nationality": "Russia",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Alexander_Sokurov"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Frenzy",
+        "movie_url": "https://en.wikipedia.org//wiki/Frenzy_(2015_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/f/f2/Frenzy_%282015_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Emin Alper",
+                "nationality": "Turkey",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Emin_Alper"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "From Afar",
+        "movie_url": "https://en.wikipedia.org//wiki/From_Afar_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Desde_all%C3%A1.jpg/220px-Desde_all%C3%A1.jpg",
+        "director": [
+            {
+                "director_name": "Lorenzo Vigas",
+                "nationality": "Venezuela",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Lorenzo_Vigas"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Heart of a Dog",
+        "movie_url": "https://en.wikipedia.org//wiki/Heart_of_a_Dog_(2015_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/64/Heart_of_a_Dog_poster.jpg/220px-Heart_of_a_Dog_poster.jpg",
+        "director": [
+            {
+                "director_name": "Laurie Anderson",
+                "nationality": "United States of America",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 6,
+                "page_link": "https://en.wikipedia.org//wiki/Laurie_Anderson"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Looking for Grace",
+        "movie_url": "https://en.wikipedia.org//wiki/Looking_for_Grace",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/3/3d/Looking_for_Grace.jpg/220px-Looking_for_Grace.jpg",
+        "director": [
+            {
+                "director_name": "Sue Brooks",
+                "nationality": "Australia",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 2,
+                "page_link": "https://en.wikipedia.org//wiki/Sue_Brooks"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Marguerite",
+        "movie_url": "https://en.wikipedia.org//wiki/Marguerite_(2015_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/1c/Marguerite_poster.jpg/220px-Marguerite_poster.jpg",
+        "director": [
+            {
+                "director_name": "Xavier Giannoli",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Xavier_Giannoli"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Rabin, the Last Day",
+        "movie_url": "https://en.wikipedia.org//wiki/Rabin,_the_Last_Day",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/b/b3/Le_Dernier_Jour_d%27Yitzhak_Rabin_poster.jpg/220px-Le_Dernier_Jour_d%27Yitzhak_Rabin_poster.jpg",
+        "director": [
+            {
+                "director_name": "Amos Gitai",
+                "nationality": "male",
+                "gender": "Israel",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Amos_Gitai"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "Remember",
+        "movie_url": "https://en.wikipedia.org//wiki/Remember_(2015_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/0/01/Remember_poster.png/220px-Remember_poster.png",
+        "director": [
+            {
+                "director_name": "Atom Egoyan",
+                "nationality": "Canada",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Atom_Egoyan"
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "movie_name": "The Wait",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Wait_(2015_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/a/a6/L%27attesa_poster.jpg/220px-L%27attesa_poster.jpg",
+        "director": [
+            {
+                "director_name": "Piero Messina",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Piero_Messina"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "Arrival",
+        "movie_url": "https://en.wikipedia.org//wiki/Arrival_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png",
+        "director": [
+            {
+                "director_name": "Denis Villeneuve",
+                "nationality": "Canada",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Denis_Villeneuve"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "The Bad Batch",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Bad_Batch_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/1/1a/The_Bad_Batch.png",
+        "director": [
+            {
+                "director_name": "Ana Lily Amirpour",
+                "nationality": "United States of America",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 11,
+                "page_link": "https://en.wikipedia.org//wiki/Ana_Lily_Amirpour"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "The Beautiful Days of Aranjuez",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Beautiful_Days_of_Aranjuez",
+        "poster": "//upload.wikimedia.org/wikipedia/en/8/84/The_Beautiful_Days_of_Aranjuez.jpg",
+        "director": [
+            {
+                "director_name": "Wim Wenders",
+                "nationality": "Germany",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Wim_Wenders"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "The Blind Christ",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Blind_Christ",
+        "poster": "//upload.wikimedia.org/wikipedia/en/f/f2/The_Blind_Christ.jpg",
+        "director": [
+            {
+                "director_name": "Christopher Murray",
+                "nationality": "Chile",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//w/index.php?title=Christopher_Murray_(director)&action=edit&redlink=1"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "Brimstone",
+        "movie_url": "https://en.wikipedia.org//wiki/Brimstone_(2016_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/c/c2/Brimstone_film.jpg",
+        "director": [
+            {
+                "director_name": "Martin Koolhoven",
+                "nationality": "Netherlands",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Martin_Koolhoven"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "The Distinguished Citizen",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Distinguished_Citizen",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/4/40/The_Distinguished_Citizen.png/220px-The_Distinguished_Citizen.png",
+        "director": [
+            {
+                "director_name": "Mariano Cohn",
+                "nationality": "Argentina",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Gast%C3%B3n_Duprat_%26_Mariano_Cohn"
+            },
+            {
+                "director_name": "Gast\u00f3n Duprat",
+                "nationality": "Argentina",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Gast%C3%B3n_Duprat_%26_Mariano_Cohn"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "Frantz",
+        "movie_url": "https://en.wikipedia.org//wiki/Frantz_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/5/56/Frantz_2016.jpg",
+        "director": [
+            {
+                "director_name": "Fran\u00e7ois Ozon",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Fran%C3%A7ois_Ozon"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "Jackie",
+        "movie_url": "https://en.wikipedia.org//wiki/Jackie_(2016_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/8/84/Jackie_%282016_film%29.png",
+        "director": [
+            {
+                "director_name": "Pablo Larra\u00edn",
+                "nationality": "Chile",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Pablo_Larra%C3%ADn"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "La La Land",
+        "movie_url": "https://en.wikipedia.org//wiki/La_La_Land",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png",
+        "director": [
+            {
+                "director_name": "Damien Chazelle",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Damien_Chazelle"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "The Light Between Oceans",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Light_Between_Oceans_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/91/The_Light_Between_Oceans_poster.jpg/220px-The_Light_Between_Oceans_poster.jpg",
+        "director": [
+            {
+                "director_name": "Derek Cianfrance",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Derek_Cianfrance"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "Nocturnal Animals",
+        "movie_url": "https://en.wikipedia.org//wiki/Nocturnal_Animals_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/b/b0/Nocturnal_Animals_Poster.jpg",
+        "director": [
+            {
+                "director_name": "Tom Ford",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Tom_Ford"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "On the Milky Road",
+        "movie_url": "https://en.wikipedia.org//wiki/On_the_Milky_Road",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/5/50/On_the_Milky_Road_film_poster.png/220px-On_the_Milky_Road_film_poster.png",
+        "director": [
+            {
+                "director_name": "Emir Kusturica",
+                "nationality": "Serbia",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Emir_Kusturica"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "Paradise",
+        "movie_url": "https://en.wikipedia.org//wiki/Paradise_(2016_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/17/Paradise._Konchalovsky.jpg/220px-Paradise._Konchalovsky.jpg",
+        "director": [
+            {
+                "director_name": "Andrei Konchalovsky",
+                "nationality": "Russia",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Andrei_Konchalovsky"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "Piuma",
+        "movie_url": "https://en.wikipedia.org//wiki/Piuma_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/e/ee/Piuma_poster.jpg/220px-Piuma_poster.jpg",
+        "director": [
+            {
+                "director_name": "Roan Johnson",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Roan_Johnson"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "These Days *",
+        "movie_url": "https://en.wikipedia.org//wiki/Questi_giorni",
+        "poster": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Italy_film_clapperboard.svg/30px-Italy_film_clapperboard.svg.png",
+        "director": [
+            {
+                "director_name": "Giuseppe Piccioni",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Giuseppe_Piccioni"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "Spira Mirabilis",
+        "movie_url": "https://en.wikipedia.org//wiki/Spira_Mirabilis_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/5/5e/Spira_Mirabilis.jpg",
+        "director": [
+            {
+                "director_name": "Massimo D'Anolfi",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//w/index.php?title=Massimo_D%27Anolfi&action=edit&redlink=1"
+            },
+            {
+                "director_name": "Martina Parenti",
+                "nationality": "Italy",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//w/index.php?title=Martina_Parenti&action=edit&redlink=1"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "The Untamed *",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Untamed_(2016_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/9/9f/The_Untamed_%282016_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Amat Escalante",
+                "nationality": "Mexico",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Amat_Escalante"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "Voyage of Time",
+        "movie_url": "https://en.wikipedia.org//wiki/Voyage_of_Time",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/61/Voyage_of_time_poster.jpg/220px-Voyage_of_time_poster.jpg",
+        "director": [
+            {
+                "director_name": "Terrence Malick",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Terrence_Malick"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "The Woman Who Left *",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Woman_Who_Left",
+        "poster": "//upload.wikimedia.org/wikipedia/en/f/fa/Ang_Babaeng_Humayo.jpg",
+        "director": [
+            {
+                "director_name": "Lav Diaz",
+                "nationality": "Philippines",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Lav_Diaz"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "movie_name": "A Woman's Life",
+        "movie_url": "https://en.wikipedia.org//wiki/A_Woman%27s_Life_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/1/11/A_Woman%27s_Life.png",
+        "director": [
+            {
+                "director_name": "St\u00e9phane Briz\u00e9",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/St%C3%A9phane_Briz%C3%A9"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Ammore e malavita",
+        "movie_url": "https://en.wikipedia.org//wiki/Ammore_e_malavita",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/67/Ammore_e_malavita_poster.jpg/220px-Ammore_e_malavita_poster.jpg",
+        "director": [
+            {
+                "director_name": "Antonio Manetti",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Antonio_Manetti_(director)"
+            },
+            {
+                "director_name": "Marco Manetti",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Marco_Manetti"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Angels Wear White",
+        "movie_url": "https://en.wikipedia.org//wiki/Angels_Wear_White",
+        "poster": "//upload.wikimedia.org/wikipedia/en/f/f4/Angels_Wear_White.jpg",
+        "director": [
+            {
+                "director_name": "Vivian Qu",
+                "nationality": "China",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 3,
+                "page_link": "https://en.wikipedia.org//wiki/Vivian_Qu"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Custody",
+        "movie_url": "https://en.wikipedia.org//wiki/Custody_(2017_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/4/49/Custody_%282017_film%29.png",
+        "director": [
+            {
+                "director_name": "Xavier Legrand",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Xavier_Legrand"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Downsizing",
+        "movie_url": "https://en.wikipedia.org//wiki/Downsizing_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/a/a8/Downsizing.png",
+        "director": [
+            {
+                "director_name": "Alexander Payne",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Alexander_Payne"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Ex Libris: The New York Public Library",
+        "movie_url": "https://en.wikipedia.org//wiki/Ex_Libris:_The_New_York_Public_Library",
+        "poster": "//upload.wikimedia.org/wikipedia/en/6/6f/Ex_Libris_The_New_York_Public_Library.jpg",
+        "director": [
+            {
+                "director_name": "Frederick Wiseman",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Frederick_Wiseman"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "A Family",
+        "movie_url": "https://en.wikipedia.org//wiki/A_Family_(2017_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/a/af/A_Family_%282017_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Sebastiano Riso",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//w/index.php?title=Sebastiano_Riso&action=edit&redlink=1"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "First Reformed",
+        "movie_url": "https://en.wikipedia.org//wiki/First_Reformed",
+        "poster": "//upload.wikimedia.org/wikipedia/en/8/84/First_Reformed.png",
+        "director": [
+            {
+                "director_name": "Paul Schrader",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Paul_Schrader"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Foxtrot",
+        "movie_url": "https://en.wikipedia.org//wiki/Foxtrot_(2017_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/d/db/Foxtrot_%282017_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Samuel Maoz",
+                "nationality": "Israel",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Samuel_Maoz"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Hannah",
+        "movie_url": "https://en.wikipedia.org//wiki/Hannah_(2017_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/e/e6/Hannah_%282017_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Andrea Pallaoro",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Andrea_Pallaoro"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "The House by the Sea",
+        "movie_url": "https://en.wikipedia.org//wiki/The_House_by_the_Sea_(2017_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/a/ac/The_House_by_the_Sea_%282017_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Robert Gu\u00e9diguian",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Robert_Gu%C3%A9diguian"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Human Flow",
+        "movie_url": "https://en.wikipedia.org//wiki/Human_Flow",
+        "poster": "//upload.wikimedia.org/wikipedia/en/4/46/Human_Flow.png",
+        "director": [
+            {
+                "director_name": "Ai Weiwei",
+                "nationality": "China",
+                "gender": "male",
+                "he_count": 5,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Ai_Weiwei"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "The Insult",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Insult_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/1/18/The_Insult_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Ziad Doueiri",
+                "nationality": "Lebanon",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Ziad_Doueiri"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Lean on Pete",
+        "movie_url": "https://en.wikipedia.org//wiki/Lean_on_Pete",
+        "poster": "//upload.wikimedia.org/wikipedia/en/c/c1/Lean_on_Pete_poster.jpg",
+        "director": [
+            {
+                "director_name": "Andrew Haigh",
+                "nationality": "United Kingdom",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Andrew_Haigh"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "The Leisure Seeker",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Leisure_Seeker",
+        "poster": "//upload.wikimedia.org/wikipedia/en/e/e7/The_Leisure_Seeker.png",
+        "director": [
+            {
+                "director_name": "Paolo Virz\u00ec",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Paolo_Virz%C3%AC"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Mektoub, My Love: Canto Uno",
+        "movie_url": "https://en.wikipedia.org//wiki/Mektoub,_My_Love:_Canto_Uno",
+        "poster": "//upload.wikimedia.org/wikipedia/en/4/46/Mektoub%2C_My_Love.jpg",
+        "director": [
+            {
+                "director_name": "Abdellatif Kechiche",
+                "nationality": "Tunisia, France",
+                "gender": "male",
+                "he_count": 9,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Abdellatif_Kechiche"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Mother!",
+        "movie_url": "https://en.wikipedia.org//wiki/Mother!",
+        "poster": "//upload.wikimedia.org/wikipedia/en/9/94/Mother%212017.jpg",
+        "director": [
+            {
+                "director_name": "Darren Aronofsky",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Darren_Aronofsky"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "The Shape of Water",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Shape_of_Water",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png",
+        "director": [
+            {
+                "director_name": "Guillermo del Toro",
+                "nationality": "Mexico",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Guillermo_del_Toro"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Suburbicon",
+        "movie_url": "https://en.wikipedia.org//wiki/Suburbicon",
+        "poster": "//upload.wikimedia.org/wikipedia/en/0/09/Suburbicon.jpg",
+        "director": [
+            {
+                "director_name": "George Clooney",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/George_Clooney"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Sweet Country",
+        "movie_url": "https://en.wikipedia.org//wiki/Sweet_Country_(2017_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/6/65/Sweet_Country_%282017_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Warwick Thornton",
+                "nationality": "Australia",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Warwick_Thornton"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "The Third Murder",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Third_Murder",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/4/45/Sandome_no_Satsujin_poster.png/220px-Sandome_no_Satsujin_poster.png",
+        "director": [
+            {
+                "director_name": "Koreeda Hirokazu",
+                "nationality": "Japan",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Koreeda_Hirokazu"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "movie_name": "Three Billboards Outside Ebbing, Missouri",
+        "movie_url": "https://en.wikipedia.org//wiki/Three_Billboards_Outside_Ebbing,_Missouri",
+        "poster": "//upload.wikimedia.org/wikipedia/en/c/c7/Three_Billboards_Outside_Ebbing%2C_Missouri_poster.png",
+        "director": [
+            {
+                "director_name": "Martin McDonagh",
+                "nationality": "United Kingdom, Ireland",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Martin_McDonagh"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "The Accused",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Accused_(2018_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/3/38/Dolores_%282018_film%29.jpg/220px-Dolores_%282018_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Gonzalo Tobal",
+                "nationality": "Argentina",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//w/index.php?title=Gonzalo_Tobal&action=edit&redlink=1"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "At Eternity's Gate",
+        "movie_url": "https://en.wikipedia.org//wiki/At_Eternity%27s_Gate_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/16/At_Eternity%27s_Gate_%282018_film_poster%29.png/220px-At_Eternity%27s_Gate_%282018_film_poster%29.png",
+        "director": [
+            {
+                "director_name": "Julian Schnabel",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Julian_Schnabel"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "The Ballad of Buster Scruggs",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Ballad_of_Buster_Scruggs",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/13/The_Ballad_of_Buster_Scruggs_%282018_poster%29.png/220px-The_Ballad_of_Buster_Scruggs_%282018_poster%29.png",
+        "director": [
+            {
+                "director_name": "Joel Coen",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Coen_brothers"
+            },
+            {
+                "director_name": "Ethan Coen",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Coen_brothers"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Capri-Revolution",
+        "movie_url": "https://en.wikipedia.org//wiki/Capri-Revolution",
+        "poster": "//upload.wikimedia.org/wikipedia/en/a/a6/Capri-Revolution.jpg",
+        "director": [
+            {
+                "director_name": "Mario Martone",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Mario_Martone"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Close Enemies",
+        "movie_url": "https://en.wikipedia.org//wiki/Close_Enemies_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/d/d8/Close_Enemies_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "David Oelhoffen",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/David_Oelhoffen"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "The Favourite",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Favourite",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png",
+        "director": [
+            {
+                "director_name": "Yorgos Lanthimos",
+                "nationality": "Greece",
+                "gender": "male",
+                "he_count": 5,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Yorgos_Lanthimos"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "First Man",
+        "movie_url": "https://en.wikipedia.org//wiki/First_Man_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/a/a8/First_Man_%28film%29.png/220px-First_Man_%28film%29.png",
+        "director": [
+            {
+                "director_name": "Damien Chazelle",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Damien_Chazelle"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Killing",
+        "movie_url": "https://en.wikipedia.org//wiki/Killing_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/8/83/Killing_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Shinya Tsukamoto",
+                "nationality": "Japan",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Shinya_Tsukamoto"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "The Mountain",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Mountain_(2018_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/27/The_Mountain_%282018_film%29.jpg/220px-The_Mountain_%282018_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Rick Alverson",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Rick_Alverson"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Our Time",
+        "movie_url": "https://en.wikipedia.org//wiki/Our_Time_(2018_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/5/56/Our_Time_%282018_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Carlos Reygadas",
+                "nationality": "Mexico",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Carlos_Reygadas"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Never Look Away",
+        "movie_url": "https://en.wikipedia.org//wiki/Never_Look_Away",
+        "poster": "//upload.wikimedia.org/wikipedia/en/1/1c/Never_Look_Away_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Florian Henckel von Donnersmarck",
+                "nationality": "Germany",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Florian_Henckel_von_Donnersmarck"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "The Nightingale",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Nightingale_(2018_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/8/8d/TheNightingale2019.jpg",
+        "director": [
+            {
+                "director_name": "Jennifer Kent",
+                "nationality": "Australia",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 6,
+                "page_link": "https://en.wikipedia.org//wiki/Jennifer_Kent"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Non-Fiction",
+        "movie_url": "https://en.wikipedia.org//wiki/Non-Fiction_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/a/a6/Non-Fiction_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Olivier Assayas",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Olivier_Assayas"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Peterloo",
+        "movie_url": "https://en.wikipedia.org//wiki/Peterloo_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/2a/Peterloo_%282018_movie_poster%29.png/220px-Peterloo_%282018_movie_poster%29.png",
+        "director": [
+            {
+                "director_name": "Mike Leigh",
+                "nationality": "United Kingdom",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Mike_Leigh"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Roma",
+        "movie_url": "https://en.wikipedia.org//wiki/Roma_(2018_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/8/85/Roma_theatrical_poster.png/220px-Roma_theatrical_poster.png",
+        "director": [
+            {
+                "director_name": "Alfonso Cuar\u00f3n",
+                "nationality": "Mexico",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Alfonso_Cuar%C3%B3n"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "The Sisters Brothers",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Sisters_Brothers_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/8/8d/The_Sisters_Brothers.png/220px-The_Sisters_Brothers.png",
+        "director": [
+            {
+                "director_name": "Jacques Audiard",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Jacques_Audiard"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Sunset",
+        "movie_url": "https://en.wikipedia.org//wiki/Sunset_(2018_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Sunset_%282018_film_poster%29.png/220px-Sunset_%282018_film_poster%29.png",
+        "director": [
+            {
+                "director_name": "L\u00e1szl\u00f3 Nemes",
+                "nationality": "Hungary",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/L%C3%A1szl%C3%B3_Nemes"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Suspiria",
+        "movie_url": "https://en.wikipedia.org//wiki/Suspiria_(2018_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png",
+        "director": [
+            {
+                "director_name": "Luca Guadagnino",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Luca_Guadagnino"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "22 July",
+        "movie_url": "https://en.wikipedia.org//wiki/22_July_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/22julyposter.jpg/220px-22julyposter.jpg",
+        "director": [
+            {
+                "director_name": "Paul Greengrass",
+                "nationality": "United Kingdom",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Paul_Greengrass"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "Vox Lux",
+        "movie_url": "https://en.wikipedia.org//wiki/Vox_Lux",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/b/bc/Vox_Lux.png/220px-Vox_Lux.png",
+        "director": [
+            {
+                "director_name": "Brady Corbet",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Brady_Corbet"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "movie_name": "What You Gonna Do When the World's on Fire?",
+        "movie_url": "https://en.wikipedia.org//wiki/What_You_Gonna_Do_When_the_World%27s_on_Fire%3F",
+        "poster": "//upload.wikimedia.org/wikipedia/en/2/22/What_You_Gonna_Do_When_the_World%27s_on_Fire%3F.jpg",
+        "director": [
+            {
+                "director_name": "Roberto Minervini",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Roberto_Minervini"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "About Endlessness",
+        "movie_url": "https://en.wikipedia.org//wiki/About_Endlessness",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/6b/About_Endlessness.jpg/220px-About_Endlessness.jpg",
+        "director": [
+            {
+                "director_name": "Roy Andersson",
+                "nationality": "Sweden",
+                "gender": "male",
+                "he_count": 8,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Roy_Andersson"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Ad Astra",
+        "movie_url": "https://en.wikipedia.org//wiki/Ad_Astra_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/c/cb/Ad_Astra_-_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "James Gray",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/James_Gray_(director)"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Babyteeth",
+        "movie_url": "https://en.wikipedia.org//wiki/Babyteeth_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/e/e5/Babyteeth_%28film%29.jpg",
+        "director": [
+          {
+            "director_name": "Shannon Murphy",
+            "nationality": "Australia",
+            "gender": "female",
+            "he_count": 3,
+            "she_count": 0,
+            "page_link": "https://en.wikipedia.org/wiki/Shannon_Murphy"
+          }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Ema",
+        "movie_url": "https://en.wikipedia.org//wiki/Ema_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/b/bf/Ema_2019_film_poster.jpg/220px-Ema_2019_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Pablo Larra\u00edn",
+                "nationality": "Chile",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Pablo_Larra%C3%ADn"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Gloria Mundi",
+        "movie_url": "https://en.wikipedia.org//wiki/Gloria_Mundi_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/c/c7/Gloria_mundi_xlg.jpg/220px-Gloria_mundi_xlg.jpg",
+        "director": [
+            {
+                "director_name": "Robert Gu\u00e9diguian",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Robert_Gu%C3%A9diguian"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Guest of Honour",
+        "movie_url": "https://en.wikipedia.org//wiki/Guest_of_Honour_(2019_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/d/d1/Guest_of_Honour_%282019_film%29_poster.jpg/220px-Guest_of_Honour_%282019_film%29_poster.jpg",
+        "director": [
+            {
+                "director_name": "Atom Egoyan",
+                "nationality": "Canada",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Atom_Egoyan"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "A Herdade",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Domain_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/a/a1/A_herdade.jpg/220px-A_herdade.jpg",
+        "director": [
+            {
+                "director_name": "Tiago Guedes",
+                "nationality": "Portugal",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Tiago_Guedes"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Joker",
+        "movie_url": "https://en.wikipedia.org//wiki/Joker_(2019_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png",
+        "director": [
+            {
+                "director_name": "Todd Phillips",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Todd_Phillips"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "The Laundromat",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Laundromat_(2019_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/e/e3/The_Laundromat_poster.jpeg/220px-The_Laundromat_poster.jpeg",
+        "director": [
+            {
+                "director_name": "Steven Soderbergh",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Steven_Soderbergh"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "The Mafia Is No Longer What It Used to Be",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Mafia_Is_No_Longer_What_It_Used_to_Be",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/d/df/The_Mafia_Is_No_Longer_What_It_Used_to_Be_official_poster.jpeg/220px-The_Mafia_Is_No_Longer_What_It_Used_to_Be_official_poster.jpeg",
+        "director": [
+            {
+                "director_name": "Franco Maresco",
+                "nationality": "Italy",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Franco_Maresco"
+            },
+            {
+                "director_name": "Daniele Ciprì",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Franco_Maresco"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Marriage Story",
+        "movie_url": "https://en.wikipedia.org//wiki/Marriage_Story_(2019_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/5/55/MarriageStoryPoster.png",
+        "director": [
+            {
+                "director_name": "Noah Baumbach",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Noah_Baumbach"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Martin Eden",
+        "movie_url": "https://en.wikipedia.org//wiki/Martin_Eden_(2019_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/f/f9/Martin_Eden_%282019_film%29.jpg/220px-Martin_Eden_%282019_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Pietro Marcello",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Pietro_Marcello"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "The Mayor of Rione Sanit\u00e0",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Mayor_of_Rione_Sanit%C3%A0",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/a/ab/The_Mayor_of_Rione_Sanit%C3%A0_film_poster.jpg/220px-The_Mayor_of_Rione_Sanit%C3%A0_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Mario Martone",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Mario_Martone"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "No.7 Cherry Lane",
+        "movie_url": "https://en.wikipedia.org//wiki/No.7_Cherry_Lane",
+        "poster": "//upload.wikimedia.org/wikipedia/en/7/78/No.7_Cherry_Lane.jpg",
+        "director": [
+            {
+                "director_name": "Yonfan",
+                "nationality": "China",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Yonfan"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "An Officer and a Spy",
+        "movie_url": "https://en.wikipedia.org//wiki/An_Officer_and_a_Spy_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/1b/An_Officer_and_A_Spy_poster.jpg/220px-An_Officer_and_A_Spy_poster.jpg",
+        "director": [
+            {
+                "director_name": "Roman Polanski",
+                "nationality": "Poland, France",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Roman_Polanski"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "The Painted Bird",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Painted_Bird_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Painted_Bird_Film_Poster.jpg/220px-The_Painted_Bird_Film_Poster.jpg",
+        "director": [
+            {
+                "director_name": "V\u00e1clav Marhoul",
+                "nationality": "Czech Republic",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/V%C3%A1clav_Marhoul"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "The Perfect Candidate",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Perfect_Candidate",
+        "poster": "//upload.wikimedia.org/wikipedia/en/9/99/ThePerfectCandidate.jpeg",
+        "director": [
+            {
+                "director_name": "Haifaa al-Mansour",
+                "nationality": "Sadi Arabia",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 4,
+                "page_link": "https://en.wikipedia.org//wiki/Haifaa_al-Mansour"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Saturday Fiction",
+        "movie_url": "https://en.wikipedia.org//wiki/Saturday_Fiction",
+        "poster": "//upload.wikimedia.org/wikipedia/en/1/15/Saturday_Fiction.jpg",
+        "director": [
+            {
+                "director_name": "Lou Ye",
+                "nationality": "China",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Lou_Ye"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "The Truth",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Truth_(2019_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/d/d3/The_Truth_poster.jpg/220px-The_Truth_poster.jpg",
+        "director": [
+            {
+                "director_name": "Hirokazu Kore-eda",
+                "nationality": "Japan",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Hirokazu_Kore-eda"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Waiting for the Barbarians",
+        "movie_url": "https://en.wikipedia.org//wiki/Waiting_for_the_Barbarians_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/a/ae/Waiting_for_the_Barbarians_poster.jpg",
+        "director": [
+            {
+                "director_name": "Ciro Guerra",
+                "nationality": "Colombia",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Ciro_Guerra"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "movie_name": "Wasp Network",
+        "movie_url": "https://en.wikipedia.org//wiki/Wasp_Network_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png",
+        "director": [
+            {
+                "director_name": "Olivier Assayas",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 6,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Olivier_Assayas"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "And Tomorrow the Entire World",
+        "movie_url": "https://en.wikipedia.org//wiki/And_Tomorrow_the_Entire_World",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/6c/And_Tomorrow_the_Entire_World.jpg/220px-And_Tomorrow_the_Entire_World.jpg",
+        "director": [
+          {
+              "director_name": "Julia Heinz",
+              "nationality": "Germany",
+              "gender": "female",
+              "he_count": 7,
+              "she_count": 0,
+              "page_link": "https://en.wikipedia.org//wiki/Andrei_Konchalovsky"
+          }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Dear Comrades!",
+        "movie_url": "https://en.wikipedia.org//wiki/Dear_Comrades!",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/4/49/Dear_Comrades%21.jpg/220px-Dear_Comrades%21.jpg",
+        "director": [
+            {
+                "director_name": "Andrei Konchalovsky",
+                "nationality": "Russia",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Andrei_Konchalovsky"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "The Disciple",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Disciple_(2020_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_Disciple_2020_poster.jpg/220px-The_Disciple_2020_poster.jpg",
+        "director": [
+            {
+                "director_name": "Chaitanya Tamhane",
+                "nationality": "India",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Chaitanya_Tamhane"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "In Between Dying",
+        "movie_url": "https://en.wikipedia.org//wiki/In_Between_Dying",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/28/In_Between_Dying_poster.jpg/220px-In_Between_Dying_poster.jpg",
+        "director": [
+          {
+              "director_name": "Hilal Baydarov",
+              "nationality": "Azerbaijan",
+              "gender": "male",
+              "he_count": 0,
+              "she_count": 0,
+              "page_link": "https://en.wikipedia.org//wiki/Amos_Gitai"
+          }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Laila in Haifa",
+        "movie_url": "https://en.wikipedia.org//wiki/Laila_in_Haifa",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Laila_in_Haifa_poster.jpg/220px-Laila_in_Haifa_poster.jpg",
+        "director": [
+            {
+                "director_name": "Amos Gitai",
+                "nationality": "Israel",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Amos_Gitai"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Lovers",
+        "movie_url": "https://en.wikipedia.org//wiki/Lovers_(2020_film)",
+        "poster": "//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1",
+        "director": [
+            {
+                "director_name": "Nicole Garcia",
+                "nationality": "France",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 2,
+                "page_link": "https://en.wikipedia.org//wiki/Nicole_Garcia"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "The Macaluso Sisters",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Macaluso_Sisters",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/7/70/The_Macaluso_Sisters_film_poster.jpg/220px-The_Macaluso_Sisters_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Emma Dante",
+                "nationality": "Italy",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 3,
+                "page_link": "https://en.wikipedia.org//wiki/Emma_Dante"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Miss Marx",
+        "movie_url": "https://en.wikipedia.org//wiki/Miss_Marx",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/7/7f/Miss_Marx_poster.jpg/220px-Miss_Marx_poster.jpg",
+        "director": [
+            {
+                "director_name": "Susanna Nicchiarelli",
+                "nationality": "Italy",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Susanna_Nicchiarelli"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Never Gonna Snow Again",
+        "movie_url": "https://en.wikipedia.org//wiki/Never_Gonna_Snow_Again",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/61/Never_Gonna_Snow_Again.jpg/220px-Never_Gonna_Snow_Again.jpg",
+        "director": [
+            {
+                "director_name": "Ma\u0142gorzata Szumowska",
+                "nationality": "Poland",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 1,
+                "page_link": "https://en.wikipedia.org//wiki/Ma%C5%82gorzata_Szumowska"
+            },
+            {
+                "director_name": "Micha\u0142 Englert",
+                "nationality": "Poland",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Micha%C5%82_Englert"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "New Order",
+        "movie_url": "https://en.wikipedia.org//wiki/New_Order_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/29/New_Order_%28film%29.jpg/220px-New_Order_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Michel Franco",
+                "nationality": "Mexico",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Michel_Franco"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Nomadland",
+        "movie_url": "https://en.wikipedia.org//wiki/Nomadland_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/a/a5/Nomadland_poster.jpeg/220px-Nomadland_poster.jpeg",
+        "director": [
+            {
+                "director_name": "Chlo\u00e9 Zhao",
+                "nationality": "China",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 1,
+                "page_link": "https://en.wikipedia.org//wiki/Chlo%C3%A9_Zhao"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Notturno",
+        "movie_url": "https://en.wikipedia.org//wiki/Notturno_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Notturno_film_poster.jpg/220px-Notturno_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Gianfranco Rosi",
+                "nationality": "Italy, United States of America",
+                "gender": "male",
+                "he_count": 5,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Gianfranco_Rosi_(director)"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Padrenostro",
+        "movie_url": "https://en.wikipedia.org//wiki/Padrenostro",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/64/Padre_nostro_xlg.jpg/220px-Padre_nostro_xlg.jpg",
+        "director": [
+            {
+                "director_name": "Claudio Noce",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Claudio_Noce"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Pieces of a Woman",
+        "movie_url": "https://en.wikipedia.org//wiki/Pieces_of_a_Woman",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png",
+        "director": [
+            {
+                "director_name": "Korn\u00e9l Mundrucz\u00f3",
+                "nationality": "Hungary",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Korn%C3%A9l_Mundrucz%C3%B3"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Quo Vadis, Aida?",
+        "movie_url": "https://en.wikipedia.org//wiki/Quo_Vadis,_Aida%3F",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png",
+        "director": [
+            {
+                "director_name": "Jasmila \u017dbani\u0107",
+                "nationality": "Bosnia",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 3,
+                "page_link": "https://en.wikipedia.org//wiki/Jasmila_%C5%BDbani%C4%87"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Sun Children",
+        "movie_url": "https://en.wikipedia.org//wiki/Sun_Children",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/f/f0/The_Sun_2020_poster.jpg/220px-The_Sun_2020_poster.jpg",
+        "director": [
+            {
+                "director_name": "Majid Majidi",
+                "nationality": "Iran",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Majid_Majidi"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "Wife of a Spy",
+        "movie_url": "https://en.wikipedia.org//wiki/Wife_of_a_Spy",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/d/dc/Wife_of_a_Spy_poster.jpg/250px-Wife_of_a_Spy_poster.jpg",
+        "director": [
+            {
+                "director_name": "Kiyoshi Kurosawa",
+                "nationality": "Japan",
+                "gender": "male",
+                "he_count": 7,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Kiyoshi_Kurosawa"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "movie_name": "The World to Come",
+        "movie_url": "https://en.wikipedia.org//wiki/The_World_to_Come",
+        "poster": "//upload.wikimedia.org/wikipedia/en/8/8d/The_World_to_Come_poster.jpeg",
+        "director": [
+            {
+                "director_name": "Mona Fastvold",
+                "nationality": "Norway",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 1,
+                "page_link": "https://en.wikipedia.org//wiki/Mona_Fastvold"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "America Latina",
+        "movie_url": "https://en.wikipedia.org//wiki/America_Latina_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/2d/America_Latina_%282021%29_film_poster.jpg/220px-America_Latina_%282021%29_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Damiano D'Innocenzo",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Damiano_and_Fabio_D%27Innocenzo"
+            },
+            {
+                "director_name": "Fabio D'Innocenzo",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Damiano_and_Fabio_D%27Innocenzo"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Another World",
+        "movie_url": "https://en.wikipedia.org//wiki/Another_World_(2021_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/France_film_clapperboard.svg/29px-France_film_clapperboard.svg.png",
+        "director": [
+            {
+                "director_name": "St\u00e9phane Briz\u00e9",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/St%C3%A9phane_Briz%C3%A9"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "The Box",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Box_(2021_Mexican_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mexico_film_clapperboard.svg/30px-Mexico_film_clapperboard.svg.png",
+        "director": [
+            {
+                "director_name": "Lorenzo Vigas",
+                "nationality": "Venezuela",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Lorenzo_Vigas"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Captain Volkonogov Escaped",
+        "movie_url": "https://en.wikipedia.org//wiki/Captain_Volkonogov_Escaped",
+        "poster": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Russia_film_clapperboard.svg/30px-Russia_film_clapperboard.svg.png",
+        "director": [
+            {
+                "director_name": "Natalya Merkulova",
+                "nationality": "Russia",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 1,
+                "page_link": "https://en.wikipedia.org//wiki/Natalya_Merkulova"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "The Card Counter",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Card_Counter",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/2/21/The_Card_Counter_%282021%29_film_poster.jpg/220px-The_Card_Counter_%282021%29_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Paul Schrader",
+                "nationality": "United States of America",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Paul_Schrader"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Freaks Out",
+        "movie_url": "https://en.wikipedia.org//wiki/Freaks_Out",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/62/Freaks_Out.jpg/220px-Freaks_Out.jpg",
+        "director": [
+            {
+                "director_name": "Gabriele Mainetti",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Gabriele_Mainetti"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "The Hand of God",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Hand_of_God_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/The_Hand_of_God_%282021%29_film_poster.jpg/220px-The_Hand_of_God_%282021%29_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Paolo Sorrentino",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Paolo_Sorrentino"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Happening",
+        "movie_url": "https://en.wikipedia.org//wiki/Happening_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/8/8e/Happening_%282021%29_film_poster.jpg/220px-Happening_%282021%29_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Audrey Diwan",
+                "nationality": "France",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 2,
+                "page_link": "https://en.wikipedia.org//wiki/Audrey_Diwan"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Il buco",
+        "movie_url": "https://en.wikipedia.org//wiki/Il_buco",
+        "poster": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Italy_film_clapperboard.svg/30px-Italy_film_clapperboard.svg.png",
+        "director": [
+            {
+                "director_name": "Michelangelo Frammartino",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Michelangelo_Frammartino"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Leave No Traces",
+        "movie_url": "https://en.wikipedia.org//wiki/Leave_No_Traces",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/e/e2/Leave_No_Traces_%282021%29_film_poster.jpg/220px-Leave_No_Traces_%282021%29_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Jan P. Matuszy\u0144ski",
+                "nationality": "Poland",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Jan_P._Matuszy%C5%84ski"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "The Lost Daughter",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Lost_Daughter",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/0/0b/The_Lost_Daughter_%28film%29.jpg/220px-The_Lost_Daughter_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Maggie Gyllenhaal",
+                "nationality": "United States of America",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 3,
+                "page_link": "https://en.wikipedia.org//wiki/Maggie_Gyllenhaal"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Lost Illusions",
+        "movie_url": "https://en.wikipedia.org//wiki/Lost_Illusions_(2021_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Lost_Illusions_%282021%29_film_poster.jpg/220px-Lost_Illusions_%282021%29_film_poster.jpg",
+        "director": [
+            {
+                "director_name": "Xavier Giannoli",
+                "nationality": "France",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Xavier_Giannoli"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Mona Lisa and the Blood Moon",
+        "movie_url": "https://en.wikipedia.org//wiki/Mona_Lisa_and_the_Blood_Moon",
+        "poster": "//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1",
+        "director": [
+            {
+                "director_name": "Ana Lily Amirpour",
+                "nationality": "United States of America",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 11,
+                "page_link": "https://en.wikipedia.org//wiki/Ana_Lily_Amirpour"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Official Competition",
+        "movie_url": "https://en.wikipedia.org//wiki/Official_Competition",
+        "poster": "//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1",
+        "director": [
+            {
+                "director_name": "Gast\u00f3n Duprat",
+                "nationality": "Argentina",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Gast%C3%B3n_Duprat_%26_Mariano_Cohn"
+            },
+            {
+                "director_name": "Mariano Cohn",
+                "nationality": "Argentina",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Gast%C3%B3n_Duprat_%26_Mariano_Cohn"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "On the Job: The Missing 8",
+        "movie_url": "https://en.wikipedia.org//wiki/On_the_Job:_The_Missing_8",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/d/df/On_the_Job_The_Missing_8_poster.jpg/220px-On_the_Job_The_Missing_8_poster.jpg",
+        "director": [
+            {
+                "director_name": "Erik Matti",
+                "nationality": "Philippines",
+                "gender": "male",
+                "he_count": 4,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Erik_Matti"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Parallel Mothers (opening film)",
+        "movie_url": "https://en.wikipedia.org//wiki/Parallel_Mothers",
+        "poster": "//upload.wikimedia.org/wikipedia/en/e/e9/Parallel_Mothers_poster.jpg",
+        "director": [
+            {
+                "director_name": "Pedro Almod\u00f3var",
+                "nationality": "Spain",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Pedro_Almod%C3%B3var"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "The Power of the Dog",
+        "movie_url": "https://en.wikipedia.org//wiki/The_Power_of_the_Dog_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/6/6d/The_Power_of_the_Dog_%28film%29.jpg/220px-The_Power_of_the_Dog_%28film%29.jpg",
+        "director": [
+            {
+                "director_name": "Jane Campion",
+                "nationality": "New Zealand",
+                "gender": "female",
+                "he_count": 0,
+                "she_count": 6,
+                "page_link": "https://en.wikipedia.org//wiki/Jane_Campion"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "The King of Laughter",
+        "movie_url": "https://en.wikipedia.org//wiki/The_King_of_Laughter",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
+        "director": [
+            {
+                "director_name": "Mario Martone",
+                "nationality": "Italy",
+                "gender": "male",
+                "he_count": 2,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Mario_Martone"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Reflection",
+        "movie_url": "https://en.wikipedia.org//wiki/Reflection_(2021_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+        "director": [
+            {
+                "director_name": "Valentyn Vasyanovych",
+                "nationality": "Ukraine",
+                "gender": "male",
+                "he_count": 0,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Valentyn_Vasyanovych"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Spencer",
+        "movie_url": "https://en.wikipedia.org//wiki/Spencer_(film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/e/ea/Spencer_%28film%29.png/220px-Spencer_%28film%29.png",
+        "director": [
+            {
+                "director_name": "Pablo Larra\u00edn",
+                "nationality": "Chile",
+                "gender": "male",
+                "he_count": 3,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Pablo_Larra%C3%ADn"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "movie_name": "Sundown",
+        "movie_url": "https://en.wikipedia.org//wiki/Sundown_(2021_film)",
+        "poster": "//upload.wikimedia.org/wikipedia/en/thumb/c/ca/Sundown_%282021_film%29.jpg/220px-Sundown_%282021_film%29.jpg",
+        "director": [
+            {
+                "director_name": "Michel Franco",
+                "nationality": "Mexico",
+                "gender": "male",
+                "he_count": 1,
+                "she_count": 0,
+                "page_link": "https://en.wikipedia.org//wiki/Michel_Franco"
+            }
+        ]
+    }
+]

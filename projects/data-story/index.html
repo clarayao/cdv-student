@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title></title>
+
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Caption&family=Permanent+Marker&family=swap" rel="stylesheet">
+
+    <!-- include the d3 library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/enter-view"></script>
+
+  </head>
+  <body>
+    <div class="full-wrapper">
+      <div class="header-wrapper">
+        <div class="headline-wrapper">
+          <h1>Whose Stories Get to be Heard?</h1>
+        </div>
+        <div class="subheading-wrapper">
+          <h2>How diverse is the "Big Three" film festivals?</h2>
+        </div>
+        <div class="division-line"><hr></div>
+        <div class="intro-wrapper">
+          <p>The issue of diversity in the film industry has always been a hot but unarguable topic. And because of the nature of storytelling and entertainment for the mass audience of films, this lack of diversity ultimately leads to the question of <b>“who gets to tell the stories”</b> and <b>“whose stories get to be heard”</b>, which could consolidate inequalities to some extent.
+          </p>
+          <p>As a vital assessment of quality and success in filmmaking, <b>film festivals</b> seem to be a practical point to look at the diversity of this industry. However, interestingly, many debates on this issue focus on <a href="https://news.sky.com/story/oscars-2022-diversity-v-data-what-analysis-of-93-years-of-winners-tells-us-about-the-academy-awards-11635455"><b>the Oscar</b></a>, an award mainly focuses on the American film industry (starting to gear towards international only in recent years). It’s reasonable since the USA is a country with diverse populations. Still, it also seems unfair to criticize so much on a film festival that is mainly limited to one country. I believe that <a href="https://timesupfoundation.org/wp-content/uploads/2020/01/aii-inclusion-film-festivals-20200127.pdf"><b>the film festivals</b></a> that aim to award excellent films internationally should also be brought to the center of debates and analyses on diversity and inclusion since they also share the same problem.
+          </p>
+          <p>Thus, I wonder: <span style="color: #e7be3e"><b>Are these international film festivals diverse enough?</b></span> If not, <span style="color: #e7be3e"><b>what might be the reason for their lack of diversity?</b></span> To answer these questions, this data story will try to visualize the troubling status-quo of the diversity in these film festivals and explore a possible answer to why this happens.</p>
+        </div>
+        <div class="division-line2"><hr></div>
+      </div>
+      <div class="content-wrapper">
+        <div class="selection-wrapper">
+          <div class="subtitle">
+            <h1>Diversity of the directors</h1>
+          </div>
+          <div class="selection-intro-wrapper">
+            <p>This data story will focus on the “Big Three”, namely, the <span style="color: #e7be3e">Venice , Cannes, and Berlin International Festival</span> because these are the most prestigious film festivals globally. I believe their diversity could be a persuasive evidence of the status quo in this industry worldwide. And simultaneously, as these three film festivals also concentrate on different perspectives of the film (artistic and commercial achievements for Cannes, political and social value for Berlin, and a combination of all in Venice), I think it’ll be effective to showcase the inclusiveness in movies of different topics. </p>
+            <p>And because of the storytelling nature of film, the following part wil focus on <span style="color: #e7be3e">the diversity of the directors</span>, since they are the one whom the biggest award of the film festivals goes to and one of the most important person of filmmaking that they pretty much decides what stories will be told in the film. This visualization would also only focus on <span style="color: #e7be3e">the nominated directors of the main competition</span> of each festival (the "Golden Palm" for Cannes, the "Golden Bear" for Berlin, and the "Golden Lion" in Venice), since they are the most representative and important awards in the festivals.</p>
+          </div>
+          <div class="selection-main-wrapper">
+            <div class="selection-viz">
+              <div class="gender-wrapper">
+                <div class="viz gender-viz">
+                </div>
+                <div class="gender-text">
+                  <div class="text gtext1">
+                    <p>First, let's look at the diversity of gender.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text gtext2">
+                    <p>Here, <span style="color: deeppink">PINK</span> represents the <span style="color: deeppink">FEMALE</span> directors that have won the prize, while <span style="color: DodgerBlue">BLUE</span> represents <span style="color: DodgerBlue">MALE</span>.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text gtext3">
+                    <p>You can <span style="color: #e7be3e">hover</span> on each bar to see which film & director each bar stands for.</p>
+                    <p>You could also <span style="color: #e7be3e">click the buttons</span> with each film festival's logo on the right, to check the the diversity of individual film festivals.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text gtext4">
+                    <p>From this graph, we can clearly see that <span style="color: deeppink">FEMALE</span> directors are underrepresented in these world-famous awards.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                </div>
+              </div>
+              <div class="map-wrapper">
+                <div class="invisible-buffer"></div>
+                <!-- <div class="invisible-buffer"></div> -->
+                <div class="viz map-viz">
+                </div>
+                <div class="map-text">
+                  <div class="text mtext1">
+                    <p>Now, let's look at how the nominated directors are distributed on the <span style="color: #e7be3e">MAP</span>.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text mtext2">
+                    <p>Here, each dot represents a nominated director from this country.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text mtext3">
+                    <p>You could <span style="color: #e7be3e">hover</span> on each country to see how many nominees were there.</p>
+                    <p>You could also <span style="color: #e7be3e">use the buttons</span> on the right to filter which film festival that you would like to see.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text mtext4">
+                    <p>Despite the different sizes of the countries, we could still see that the nominees are crowded in <span style="color: #e7be3e">EUROPE</span> and the <span style="color: #e7be3e">US</span>.</p>
+                    <p>Especially when comparing how crowded <span style="color: #e7be3e">EUROPE</span> is and so few that <span style="color: #e7be3e">AFRICA</span> has.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="invisible-buffer"></div>
+                </div>
+              </div>
+              <div class="intersection-wrapper">
+                <div class="invisible-buffer"></div>
+                <div class="viz intersection-viz">
+                </div>
+                <div class="intersection-text">
+                  <div class="text itext1">
+                    <p>Because of the colonial sturcture that our world has, it's also interesting to look at the nominess by their <span style="color: #e7be3e">CONTINENTS</span>.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text itext2">
+                    <p>Here, each dot represents a nominated director.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text itext3">
+                    <p>Same as before, you could also <span style="color: #e7be3e">hover</span> on each dot & <span style="color: #e7be3e">click</span> the buttons</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text itext4">
+                    <p>It's obvious that a large portion of the nominees come from <span style="color: #e7be3e">EUROPE</span></p>
+                    <p>Whereass <span style="color: #e7be3e">AFRICA</span> & <span style="color: #e7be3e">OCEANIA</span> has only a few.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text itext5">
+                    <p>Now what if we add <span style="color: #e7be3e">GENDER</span> into this graph?</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text itext6">
+                    <p>It seems that the lack of <span style="color: deeppink">female representation</span> applies to all continents.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text itext6">
+                    <p>But it also seems that <span style="color: #e7be3e">EUROPE</span>, despite the large proportion of it, has a better status of <span style="color: deeppink">female representation</span>. But becuase of the limited number that we have, it's hard to tell the actual status quo. </p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="special invisible-buffer"></div>
+                </div>
+              </div>
+            </div>
+            <div class="buttons">
+              <div class="buttons-wrapper">
+                <div class="venice-button" id="selection-venice-button">
+                  <input class="venice" type="image" src="image/venice-button.png">
+                </div>
+                <div class="canne-button" id="selection-cannes-button">
+                  <input class="canne" type="image" src="image/canne-button.png">
+                </div>
+                <div class="berlin-button" id="selection-berlin-button">
+                  <input class="berlin" type="image" src="image/berlin-button.png">
+                </div>
+                <div class="all-button" id="selection-all-button">
+                  <input class="all" type="image" src="image/all-button.png">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="invisible-buffer"></div>
+        <div class="division-line2"><hr></div>
+        <div class="jury-wrapper">
+          <div class="subtitle">
+            <h1>Diversity of the juries</h1>
+          </div>
+          <div class="jury-intro-wrapper">
+            <p>In the last section, we saw how not diverse in terms of sex and nationality is in the "Big Three" film festivals. But why does this happen?</p>
+            <p>The diversity of the juries might be an answer to this. Because juries are the ones who decides who are winning and whose films got to be seem by the wider audience. However, can the diversity of the juries really explain why these film festivals lack diversity? Let's find out!</p>
+          </div>
+          <div class="jury-main-wrapper">
+            <div class="jury-viz">
+              <div class="jury-only-wrapper">
+                <div class="viz jury-only-viz">
+                </div>
+                <div class="jury-only-text">
+                  <div class="text jotext1">
+                    <p>The structure and interaction of this graph is same as before, only each dot represents a jury from this continent.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text jotext2">
+                    <p>It's obvious that still, <span style="color: #e7be3e">EUROPE</span> takes a larger proportion.</p>
+                    <p>But it's also interesting to see a lot more <span style="color: deeppink">FEMALE</span> in the juries.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text jotext3">
+                    <p>Proportionally speaking, the juries do tries to <span style="color: #e7be3e">balance the diversity</span> by having more female and some juries from (almost) every continent.</p>
+                    <p>However there's still sometime when there're no nominees from Africa or Oceania.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                </div>
+              </div>
+              <div class="invisible-buffer"></div>
+              <div class="comparison-wrapper">
+                <div class="comparison-viz">
+                  <div class="comparison-jury-viz">
+                  </div>
+                  <div class="comparison-label">
+                  </div>
+                  <div class="comparison-selection-viz">
+                  </div>
+                </div>
+                <div class="comparison-text">
+                  <div class="text ctext1">
+                    <p>Finally, let's look compare the diversity of nominees and juries rogether to see if there's any correlation.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text ctext2">
+                    <p>For geographical distribution, the two shows similar pattern:</p>
+                    <p style="color: #e7be3e">EUROPE is the most represented, while AFRICA and OCEANIA are obviously underrepresented.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text ctext3">
+                    <p>In terms of <span style="color: #e7be3e">gender representation</span>, the selection of juries is <span style="color: #e7be3e">successful in balancing the diversity</span>. However, it's interesting to see that the nominated directors do not follow this pattern.</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="text ctext4">
+                    <p>Is it because femal directors are not as good as male directors?</p>
+                    <p>Or is it because the mainstream perception of what is a good movie prefers male director?</p>
+                  </div>
+                  <div class="invisible-buffer"></div>
+                  <div class="invisible-buffer"></div>
+                </div>
+              </div>
+            </div>
+            <div class="buttons">
+              <div class="buttons-wrapper">
+                <div class="venice-button" id="jury-venice-button">
+                  <input class="venice" type="image" src="image/venice-button.png">
+                </div>
+                <div class="canne-button" id="jury-cannes-button">
+                  <input class="canne" type="image" src="image/canne-button.png">
+                </div>
+                <div class="berlin-button" id="jury-berlin-button">
+                  <input class="berlin" type="image" src="image/berlin-button.png">
+                </div>
+                <div class="all-button" id="jury-all-button">
+                  <input class="all" type="image" src="image/all-button.png">
+                </div>
+              </div>
+            </div>
+            <div class="invisible-buffer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="division-line2"><hr></div>
+      <!-- <div class="invisible-buffer"></div> -->
+      <div class="ending-wrapper">
+        <p>Having introduced the diversity of the "Big Three" film festivals using the data of the last decade, hopefully you have had a glimpe of the concerning diversity of these 3 biggest film festivals in the world. Based on the diversity of gender and geographical region of the nominated directors and juries, we can see that some parts of the world and female directors are still underrepresented in the film industry. As we're living in this world full of intertainments, it's highly crucial to have the underrepresented to speak out so that they aren't swallowed by the massive flow of information. </p>
+        <p id="last-sentence">We are all looking forward to the day when the film industry would let more underrepresented people to tell the stories and let the public hear their voice.</p>
+        <!-- <div class="ending-img">
+          <img src="image/ending.png">
+        </div> -->
+        <div class="ending-word">
+          <h1>-END-</h1>
+        </div>
+      </div>
+      <!-- <div class="invisible-buffer"></div> -->
+    </div>
+
+    <!-- our main script: -->
+    <!-- <script type="text/javascript" src="js/script.js"></script> -->
+    <script type="text/javascript" src="js/awards_gender.js"></script>
+    <script type="text/javascript" src="js/awards_map.js"></script>
+    <script type="text/javascript" src="js/awards_intersection.js"></script>
+    <script type="text/javascript" src="js/jury_only.js"></script>
+    <script type="text/javascript" src="js/comparison-jury.js"></script>
+    <script type="text/javascript" src="js/comparison-selection.js"></script>
+    <!-- <script type="text/javascript" src="js/script.js"></script> -->
+  </body>
+</html>

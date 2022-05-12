@@ -1,0 +1,641 @@
+[
+    {
+        "year": 2012,
+        "name": "Mike Leigh",
+        "nationality": "United Kingdom",
+        "guessed_gender": "male",
+        "he_count": 4,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Mike_Leigh"
+    },
+    {
+        "year": 2012,
+        "name": "Anton Corbijn",
+        "nationality": "Netherlands",
+        "guessed_gender": "male",
+        "he_count": 1,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Anton_Corbijn"
+    },
+    {
+        "year": 2012,
+        "name": "Asghar Farhadi",
+        "nationality": "Iran",
+        "guessed_gender": "male",
+        "he_count": 2,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Asghar_Farhadi"
+    },
+    {
+        "year": 2012,
+        "name": "Charlotte Gainsbourg",
+        "nationality": "France",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 3,
+        "page_link": "https://en.wikipedia.org/wiki/Charlotte_Gainsbourg"
+    },
+    {
+        "year": 2012,
+        "name": "Jake Gyllenhaal",
+        "nationality": "United States of America",
+        "guessed_gender": "male",
+        "he_count": 5,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
+    },
+    {
+        "year": 2012,
+        "name": "Fran\u00e7ois Ozon",
+        "nationality": "France",
+        "guessed_gender": "male",
+        "he_count": 1,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Ozon"
+    },
+    {
+        "year": 2012,
+        "name": "Boualem Sansal",
+        "nationality": "Algeria",
+        "guessed_gender": "male",
+        "he_count": 4,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Boualem_Sansal"
+    },
+    {
+        "year": 2012,
+        "name": "Barbara Sukowa",
+        "nationality": "Germany",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 8,
+        "page_link": "https://en.wikipedia.org/wiki/Barbara_Sukowa"
+    },
+    {
+        "year": 2013,
+        "name": "Wong Kar-wai",
+        "nationality": "China",
+        "guessed_gender": "male",
+        "he_count": 1,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Wong_Kar-wai"
+    },
+    {
+        "year": 2013,
+        "name": "Susanne Bier",
+        "nationality": "Denmark",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 1,
+        "page_link": "https://en.wikipedia.org/wiki/Susanne_Bier"
+    },
+    {
+        "year": 2013,
+        "name": "Andreas Dresen",
+        "nationality": "Germany",
+        "guessed_gender": "male",
+        "he_count": 4,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Andreas_Dresen"
+    },
+    {
+        "year": 2013,
+        "name": "Ellen Kuras",
+        "nationality": "United States of America",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 10,
+        "page_link": "https://en.wikipedia.org/wiki/Ellen_Kuras"
+    },
+    {
+        "year": 2013,
+        "name": "Shirin Neshat",
+        "nationality": "Iran",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 2,
+        "page_link": "https://en.wikipedia.org/wiki/Shirin_Neshat"
+    },
+    {
+        "year": 2013,
+        "name": "Tim Robbins",
+        "nationality": "United States of America",
+        "guessed_gender": "male",
+        "he_count": 3,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Tim_Robbins"
+    },
+    {
+        "year": 2013,
+        "name": "Athina Rachel Tsangari",
+        "nationality": "Greece",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 3,
+        "page_link": "https://en.wikipedia.org/wiki/Athina_Rachel_Tsangari"
+    },
+    {
+        "year": 2014,
+        "name": "James Schamus",
+        "nationality": "United States of America",
+        "guessed_gender": "male",
+        "he_count": 10,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/James_Schamus"
+    },
+    {
+        "year": 2014,
+        "name": "Barbara Broccoli",
+        "nationality": "United States of America",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 1,
+        "page_link": "https://en.wikipedia.org/wiki/Barbara_Broccoli"
+    },
+    {
+        "year": 2014,
+        "name": "Trine Dyrholm",
+        "nationality": "Denmark",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 5,
+        "page_link": "https://en.wikipedia.org/wiki/Trine_Dyrholm"
+    },
+    {
+        "year": 2014,
+        "name": "Mitra Farahani",
+        "nationality": "Iran",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 3,
+        "page_link": "https://en.wikipedia.org/wiki/Mitra_Farahani"
+    },
+    {
+        "year": 2014,
+        "name": "Greta Gerwig",
+        "nationality": "United States of America",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 5,
+        "page_link": "https://en.wikipedia.org/wiki/Greta_Gerwig"
+    },
+    {
+        "year": 2014,
+        "name": "Michel Gondry",
+        "nationality": "France",
+        "guessed_gender": "male",
+        "he_count": 3,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Michel_Gondry"
+    },
+    {
+        "year": 2014,
+        "name": "Tony Leung",
+        "nationality": "China",
+        "guessed_gender": "male",
+        "he_count": 6,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Tony_Leung_Chiu-Wai"
+    },
+    {
+        "year": 2014,
+        "name": "Christoph Waltz",
+        "nationality": "Austria",
+        "guessed_gender": "male",
+        "he_count": 7,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Christoph_Waltz"
+    },
+    {
+        "year": 2015,
+        "name": "Darren Aronofsky",
+        "nationality": "United States of America",
+        "guessed_gender": "male",
+        "he_count": 3,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Darren_Aronofsky"
+    },
+    {
+        "year": 2015,
+        "name": "Daniel Br\u00fchl",
+        "nationality": "Germany",
+        "guessed_gender": "male",
+        "he_count": 3,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Daniel_Br%C3%BChl"
+    },
+    {
+        "year": 2015,
+        "name": "Bong Joon-ho",
+        "nationality": "South Korea",
+        "guessed_gender": "male",
+        "he_count": 1,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Bong_Joon-ho"
+    },
+    {
+        "year": 2015,
+        "name": "Martha De Laurentiis",
+        "nationality": "United States of America",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 5,
+        "page_link": "https://en.wikipedia.org/wiki/Martha_De_Laurentiis"
+    },
+    {
+        "year": 2015,
+        "name": "Claudia Llosa",
+        "nationality": "Peru",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 3,
+        "page_link": "https://en.wikipedia.org/wiki/Claudia_Llosa"
+    },
+    {
+        "year": 2015,
+        "name": "Audrey Tautou",
+        "nationality": "France",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 6,
+        "page_link": "https://en.wikipedia.org/wiki/Audrey_Tautou"
+    },
+    {
+        "year": 2015,
+        "name": "Matthew Weiner",
+        "nationality": "United States of America",
+        "guessed_gender": "male",
+        "he_count": 1,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Matthew_Weiner"
+    },
+    {
+        "year": 2016,
+        "name": "Meryl Streep",
+        "nationality": "United States of America",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 7,
+        "page_link": "https://en.wikipedia.org/wiki/Meryl_Streep"
+    },
+    {
+        "year": 2016,
+        "name": "Lars Eidinger",
+        "nationality": "Germany",
+        "guessed_gender": "male",
+        "he_count": 3,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Lars_Eidinger"
+    },
+    {
+        "year": 2016,
+        "name": "Nick James",
+        "nationality": "United Kingdom",
+        "guessed_gender": "male",
+        "he_count": 4,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Nick_James_(critic)"
+    },
+    {
+        "year": 2016,
+        "name": "Brigitte Lacombe",
+        "nationality": "France",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 6,
+        "page_link": "https://en.wikipedia.org/wiki/Brigitte_Lacombe"
+    },
+    {
+        "year": 2016,
+        "name": "Clive Owen",
+        "nationality": "United Kingdom",
+        "guessed_gender": "male",
+        "he_count": 3,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Clive_Owen"
+    },
+    {
+        "year": 2016,
+        "name": "Alba Rohrwacher",
+        "nationality": "Italy",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Alba_Rohrwacher"
+    },
+    {
+        "year": 2016,
+        "name": "Ma\u0142gorzata Szumowska",
+        "nationality": "Poland",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 1,
+        "page_link": "https://en.wikipedia.org/wiki/Ma%C5%82gorzata_Szumowska"
+    },
+    {
+        "year": 2017,
+        "name": "Paul Verhoeven",
+        "nationality": "Netherlands",
+        "guessed_gender": "male",
+        "he_count": 0,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Paul_Verhoeven"
+    },
+    {
+        "year": 2017,
+        "name": "Olafur Eliasson",
+        "nationality": "Iceland",
+        "guessed_gender": "male",
+        "he_count": 2,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Olafur_Eliasson"
+    },
+    {
+        "year": 2017,
+        "name": "Dora Bouchoucha Fourati",
+        "nationality": "Tunisia",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/w/index.php?title=Dora_Bouchoucha_Fourati&action=edit&redlink=1"
+    },
+    {
+        "year": 2017,
+        "name": "Maggie Gyllenhaal",
+        "nationality": "United States of America",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 3,
+        "page_link": "https://en.wikipedia.org/wiki/Maggie_Gyllenhaal"
+    },
+    {
+        "year": 2017,
+        "name": "Julia Jentsch",
+        "nationality": "Germany",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 3,
+        "page_link": "https://en.wikipedia.org/wiki/Julia_Jentsch"
+    },
+    {
+        "year": 2017,
+        "name": "Diego Luna",
+        "nationality": "Mexico",
+        "guessed_gender": "male",
+        "he_count": 2,
+        "she_count": 1,
+        "page_link": "https://en.wikipedia.org/wiki/Diego_Luna"
+    },
+    {
+        "year": 2017,
+        "name": "Wang Quan'an",
+        "nationality": "China",
+        "guessed_gender": "male",
+        "he_count": 2,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Wang_Quan%27an"
+    },
+    {
+        "year": 2018,
+        "name": "Tom Tykwer",
+        "nationality": "Germany",
+        "guessed_gender": "male",
+        "he_count": 9,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Tom_Tykwer"
+    },
+    {
+        "year": 2018,
+        "name": "C\u00e9cile de France",
+        "nationality": "Belgium",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 5,
+        "page_link": "https://en.wikipedia.org/wiki/C%C3%A9cile_de_France"
+    },
+    {
+        "year": 2018,
+        "name": "Chema Prado",
+        "nationality": "Spain",
+        "guessed_gender": "male",
+        "he_count": 0,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/w/index.php?title=Chema_Prado&action=edit&redlink=1"
+    },
+    {
+        "year": 2018,
+        "name": "Adele Romanski",
+        "nationality": "United States of America",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 5,
+        "page_link": "https://en.wikipedia.org/wiki/Adele_Romanski"
+    },
+    {
+        "year": 2018,
+        "name": "Ryuichi Sakamoto",
+        "nationality": "Japan",
+        "guessed_gender": "male",
+        "he_count": 5,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Ryuichi_Sakamoto"
+    },
+    {
+        "year": 2018,
+        "name": "Stephanie Zacharek",
+        "nationality": "United States of America",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 6,
+        "page_link": "https://en.wikipedia.org/wiki/Stephanie_Zacharek"
+    },
+    {
+        "year": 2019,
+        "name": "Juliette Binoche",
+        "nationality": "France",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 3,
+        "page_link": "https://en.wikipedia.org/wiki/Juliette_Binoche"
+    },
+    {
+        "year": 2019,
+        "name": "Justin Chang",
+        "nationality": "United States of America",
+        "guessed_gender": "male",
+        "he_count": 6,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Justin_Chang"
+    },
+    {
+        "year": 2019,
+        "name": "Sandra H\u00fcller",
+        "nationality": "Germany",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 5,
+        "page_link": "https://en.wikipedia.org/wiki/Sandra_H%C3%BCller"
+    },
+    {
+        "year": 2019,
+        "name": "Sebasti\u00e1n Lelio",
+        "nationality": "Chile",
+        "guessed_gender": "male",
+        "he_count": 3,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Lelio"
+    },
+    {
+        "year": 2019,
+        "name": "Rajendra Roy",
+        "nationality": "United States of America",
+        "guessed_gender": "male",
+        "he_count": 0,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/w/index.php?title=Rajendra_Roy&action=edit&redlink=1"
+    },
+    {
+        "year": 2019,
+        "name": "Trudie Styler",
+        "nationality": "United Kingdom",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 4,
+        "page_link": "https://en.wikipedia.org/wiki/Trudie_Styler"
+    },
+    {
+        "year": 2020,
+        "name": "Jeremy Irons",
+        "nationality": "United Kingdom",
+        "guessed_gender": "male",
+        "he_count": 3,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Jeremy_Irons"
+    },
+    {
+        "year": 2020,
+        "name": "B\u00e9r\u00e9nice Bejo",
+        "nationality": "France",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 2,
+        "page_link": "https://en.wikipedia.org/wiki/B%C3%A9r%C3%A9nice_Bejo"
+    },
+    {
+        "year": 2020,
+        "name": "B\u00e9r\u00e9nice Bejo",
+        "nationality": "Argentina",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 2,
+        "page_link": "https://en.wikipedia.org/wiki/B%C3%A9r%C3%A9nice_Bejo"
+    },
+    {
+        "year": 2020,
+        "name": "Bettina Brokemper",
+        "nationality": "Germany",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/w/index.php?title=Bettina_Brokemper&action=edit&redlink=1"
+    },
+    {
+        "year": 2020,
+        "name": "Annemarie Jacir",
+        "nationality": "Palestinian Territories",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 1,
+        "page_link": "https://en.wikipedia.org/wiki/Annemarie_Jacir"
+    },
+    {
+        "year": 2020,
+        "name": "Kenneth Lonergan",
+        "nationality": "United States of America",
+        "guessed_gender": "male",
+        "he_count": 4,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Kenneth_Lonergan"
+    },
+    {
+        "year": 2020,
+        "name": "Luca Marinelli",
+        "nationality": "Italy",
+        "guessed_gender": "male",
+        "he_count": 1,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Luca_Marinelli"
+    },
+    {
+        "year": 2020,
+        "name": "Kleber Mendon\u00e7a Filho",
+        "nationality": "Brazil",
+        "guessed_gender": "male",
+        "he_count": 4,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Kleber_Mendon%C3%A7a_Filho"
+    },
+    {
+        "year": 2021,
+        "name": "Ildikó Enyedi",
+        "nationality": "Hungary",
+        "guessed_gender": "female",
+        "he_count": 3,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Ildik%C3%B3_Enyedi"
+    },
+    {
+        "year": 2021,
+        "name": "Nadav Lapid",
+        "nationality": "Israel",
+        "guessed_gender": "male",
+        "he_count": 0,
+        "she_count": 2,
+        "page_link": "https://en.wikipedia.org/wiki/Nadav_Lapid"
+    },
+    {
+        "year": 2021,
+        "name": "Bettina Brokemper",
+        "nationality": "Germany",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/w/index.php?title=Bettina_Brokemper&action=edit&redlink=1"
+    },
+    {
+        "year": 2021,
+        "name": "Adina Pintilie",
+        "nationality": "Romania",
+        "guessed_gender": "female",
+        "he_count": 0,
+        "she_count": 1,
+        "page_link": "https://en.wikipedia.org/wiki/Adina_Pintilie"
+    },
+    {
+        "year": 2021,
+        "name": "Mohammad Rasoulof",
+        "nationality": "Iran",
+        "guessed_gender": "male",
+        "he_count": 4,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Mohammad_Rasoulof"
+    },
+    {
+        "year": 2021,
+        "name": "Gianfranco Rosi",
+        "nationality": "Italy",
+        "guessed_gender": "male",
+        "he_count": 1,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Gianfranco_Rosi_(director)"
+    },
+    {
+        "year": 2021,
+        "name": "Jasmila Žbanić",
+        "nationality": "Bosnia and Herzegovina",
+        "guessed_gender": "female",
+        "he_count": 4,
+        "she_count": 0,
+        "page_link": "https://en.wikipedia.org/wiki/Jasmila_%C5%BDbani%C4%87"
+    }
+]

@@ -5,26 +5,63 @@ let h = 500;
 let xpadding = 100;
 let ypadding = 50;
 let padding = 50;
+let graphHeight = h-padding*2;
+let formatYear = d3.timeParse("%Y");
 
-viz = d3.select("#container")
+let viz = d3.select("#container")
           .append("svg")
           .style("width", w)
           .style("height", h)
           .style("background-color", "lightgrey")
 ;
 
+let label = viz.append("g").attr("class", "label").style("opacity", 0);
+label.append("rect")
+        .attr("class", "background")
+        .attr("x", 10)
+        .attr("y", 20)
+        .attr("width", 200)
+        .attr("height", 300)
+        .attr("fill", "white")
+;
+label.append("text")
+        .attr("class", "directorName")
+        .text("Director: ")
+        .attr("x", 20)
+        .attr("y", 40)
+;
+label.append("text")
+        .attr("class", "movieName")
+        .text("Movie: ")
+        .attr("x", 20)
+        .attr("y", 65)
+;
+label.append("image")
+        .attr("class", "poster")
+        .attr("xlink:href", "https://upload.wikimedia.org/wikipedia/en/3/34/After_the_Battle_poster.jpg")
+        .attr("x", 30)
+        .attr("y", 60)
+        .attr("width", 150)
+        .attr("height", 250)
+;
+// label.selectAll("text").call(cdvTextWrap(3));
+
+
 function gotData(incomingData) {
   console.log(incomingData);
-  genderFilteredData = filterGender(incomingData);
-  // console.log(genderFilteredData)
+  incomingData = incomingData.map(d=>{
+    d.year = formatYear(d.year)
+    return d;
+  })
   directorSortedData = sortbyDirector(incomingData);
-  console.log(directorSortedData)
-  formatYear = d3.timeParse("%Y");
-  // console.log(formatYear("2012"))
+  // console.log(directorSortedData);
+  let yearGroupedData = d3.group(directorSortedData, function(datapoint){
+    return datapoint.year;
+  })
 
   // x scale & AXIS
-  let xScale = d3.scaleTime().domain([formatYear("2012"), formatYear("2021")]).range([xpadding, w-xpadding]);
-  // console.log(xScale(2021))
+  let extent = d3.extent(incomingData, d=>d.year);
+  let xScale = d3.scaleTime().domain(extent).range([xpadding, w-xpadding]);
   let xAxis = d3.axisBottom(xScale);
   let xAxisGroup = viz.append("g")
                         .attr("class", "xaxisgroup")
@@ -32,212 +69,180 @@ function gotData(incomingData) {
   ;
   xAxisGroup.call(xAxis);
 
-  // y scale & axis
-  let yScaleData = genderFilteredData.map(d=>d.sum);
-  // console.log(yScaleData);
-  let yMin = d3.min(yScaleData);
-  let yMax = d3.max(yScaleData);
-  // console.log(yExtent);
-  let yScale = d3.scaleLinear().domain([0, yMax]).range([h-ypadding, ypadding]);
-  let barYScale = d3.scaleLinear().domain([0, yMax]).range([0, h-ypadding*2]);
-  // let yAxis = d3.axisLeft(yScale);
-  // let yAxisGroup = viz.append("g")
-  //                       .attr("class", "yaxisgroup")
-  //                       .attr("transform", "translate("+(xpadding)+",0)")
-  // ;
-  // yAxisGroup.call(yAxis);
+  //arrange box height
 
-//stack data
-// let stackedData = d3.stack()
-//                       .keys()
-// ;
-
-// visualization
-// console.log(xAxis.bandwidth())
-// let vizGroup = viz.selectAll(".vizGroup").data(genderFilteredData).enter().append("g").attr("class", "vizGroup");
-// if (genderFilteredData.)
-// for(let i = 0; i < 10; i++){
-//   // console.log(genderFilteredData[i])
-//   // console.log(genderFilteredData[i].male)
-//   vizGroup.append("rect")
-//             .attr("x", xScale(formatYear(genderFilteredData[i].year))-10)
-//             .attr("y", (h-ypadding-barYScale(genderFilteredData[i].female)))
-//             .attr("width", 20)
-//             .attr("height", barYScale(genderFilteredData[i].female))
-//             .attr("fill", "deeppink")
-//   ;
-//   vizGroup.append("rect")
-//             .attr("x", xScale(formatYear(genderFilteredData[i].year))-10)
-//             .attr("y", (h-ypadding-barYScale(genderFilteredData[i].male))-barYScale(genderFilteredData[i].female))
-//             .attr("width", 20)
-//             .attr("height", barYScale(genderFilteredData[i].male))
-//             .attr("fill", "DodgerBlue")
-//   ;
-// }
-let count2012 = 0;
-let count2013 = 0;
-let count2014 = 0;
-let count2015 = 0;
-let count2016 = 0;
-let count2017 = 0;
-let count2018 = 0;
-let count2019 = 0;
-let count2020 = 0;
-let count2021 = 0;
-function yPos(d, i) {
-  // console.log(i)
-  if (d.year == "2012") {
-    count2012 += 1;
-  } else if (d.year == "2013") {
-    count2013 += 1
-  } else if(d.year == "2014") {
-    count2014 += 1
-  } else if(d.year == "2015") {
-    count2015 += 1
-  } else if(d.year == "2016") {
-    count2016 += 1
-  } else if(d.year == "2017") {
-    count2017 += 1
-  } else if(d.year == "2018") {
-    count2018 += 1
-  } else if(d.year == "2019") {
-    count2019 += 1
-  } else if(d.year == "2020") {
-    count2020 += 1
-  } else{
-    count2021 += 1
-  }
-  // console.log(count2012)
-  // console.log(count2013)
-  if (d.year == "2012") {
-    countPos = count2012;
-  } else if (d.year == "2013") {
-    countPos = count2013;
-  } else if(d.year == "2014") {
-    countPos = count2014;
-  } else if(d.year == "2015") {
-    countPos = count2015;
-  } else if(d.year == "2016") {
-    countPos = count2016;
-  } else if(d.year == "2017") {
-    countPos = count2017;
-  } else if(d.year == "2018") {
-    countPos = count2018;
-  } else if(d.year == "2019") {
-    countPos = count2019;
-  } else if(d.year == "2020") {
-    countPos = count2020;
-  } else if(d.year == "2021"){
-    countPos = count2021;
-  }
-  // console.log(countPos)
-  // let yPos = countPos * barYScale(1)
-  let yPos = h-padding-countPos * barYScale(1)
-  return yPos
-}
-
-function textContent(d, i){
-  console.log(d.director.director_name)
-  return d.director.director_name
-}
-
-//datapoint by datapoint
-  let vizGroup = viz.selectAll(".vizGroup").data(directorSortedData).enter().append("g").attr("class", "vizGroup");
-  let bars = vizGroup.append("rect")
-            .attr("x", function(d){
-              let xPos = xScale(formatYear(d.year))-10
-              return xPos
-            })
-            .attr("y", yPos)
-            .attr("width", 20)
-            .attr("height", barYScale(1))
-            .attr("fill", function(d){
-              if (d.director.gender == "male"){
-                return "DodgerBlue"
-              } else {
-                return "deeppink"
-              }
-            })
-            .attr("stroke-width", 1)
-            .attr("stroke", "white")
-  ;
-  let label = vizGroup.append("text")
-                        .text(textContent)
-                        .attr("x", function(d){
-                          let xPos = xScale(formatYear(d.year))-10
-                          return xPos
+  //gender group
+  let yearGroups = viz.selectAll(".yearGroups").data(yearGroupedData).enter().append("g")
+                        .attr("class", "yearGroups")
+                        .attr("transform", function(d, i){
+                          // console.log(d[1])
+                          let x = xScale(d[0])-15;
+                          let y = h-ypadding;
+                          return "translate("+x+","+y+")"
                         })
-                        .attr("y", yPos)
-                        .attr("opacity", 0)
-
   ;
-  let caption1 = vizGroup.append("text")
-                          .text("movie")
-                          .attr("x", 10)
-                          .attr("y", 20)
-    ;
-    let caption2 = vizGroup.append("text")
-                            .text("director")
-                            .attr("x", 10)
-                            .attr("y", 50)
-      ;
 
-  //hover effect
-  bars.on("mouseover", function(event, d){
-    d3.select(this)
-              .transition()
-              .delay(100)
-              .attr("opacity", 0.2)
-    ;
-    // label.attr("opacity", 1)
-    caption1.text(d.movie_name)
-    caption2.text(d.director.director_name)
-  })
-          .on("mouseout", function(event, d){
-            d3.select(this)
-                      .transition()
-                      .delay(100)
-                      .attr("opacity", 1)
-            ;
-          })
-          caption1.text("movie")
-          caption2.text("director")
-}
-
-function filterGender(incomingData){
-  let newData = [];
-  for(let i = 0; i < 10; i++){
-    let maleCount = 0;
-    let femaleCount = 0;
-    let yearNum = 2012 + i;
-    let year = yearNum.toString();
-    // console.log(year)
-    filteredData = incomingData.filter(d => d.year == year);
-    // console.log(filteredData[0].director.length);
-    for(let j = 0; j < filteredData.length; j++){
-      // console.log(j)
-      for(let k = 0; k < filteredData[0].director.length; k++){
-        // console.log(k)
-        // console.log(filteredData[j].director[k].gender)
-        if (filteredData[j].director[k].gender == "male"){
-          maleCount += 1
-        } else {
-          femaleCount += 1
-        }
-      }
-    }
-    // console.log("male: "+maleCount, "female: "+femaleCount)
-    collectedData = {
-      "year": yearNum,
-      "male": maleCount,
-      "female": femaleCount,
-      "sum": femaleCount+maleCount
-    };
-    // console.log(collectedData)
-    newData.push(collectedData);
+  function getIndividualData(d){
+    console.log(d[1]);
+    return d[1]
   }
-  return newData;
+
+  function getYearLength(d, i){
+    if (d.year.getFullYear() == "2012") {
+      return 22;
+    } else if (d.year.getFullYear() == "2013") {
+      return 20;
+    } else if(d.year.getFullYear() == "2014") {
+      return 19;
+    } else if(d.year.getFullYear() == "2015") {
+      return 19;
+    } else if(d.year.getFullYear() == "2016") {
+      return 22;
+    } else if(d.year.getFullYear() == "2017") {
+      return 19;
+    } else if(d.year.getFullYear() == "2018") {
+      return 21;
+    } else if(d.year.getFullYear() == "2019") {
+      return 23;
+    } else if(d.year.getFullYear() == "2020") {
+      return 14;
+    } else{
+      return 24;
+    }
+  }
+  function yPos(d, i){
+    let yearLength = getYearLength(d);
+    let height = graphHeight/yearLength;
+    return height
+  }
+
+  // let label = d3.select("svg").append("div")
+  //                 .attr("class", "label")
+  //                 .attr("width", 50)
+  //                 .attr("height", 20)
+  //                 .attr("x", 10)
+  //                 .attr("y", 20)
+  //                 // .style("opacity", 0)
+  // ;
+
+  let individualDataGroup = yearGroups.selectAll(".individualData").data(getIndividualData).enter()
+                                        .append("g")
+                                        .sort((a,b)=>{
+                                          return d3.ascending(a.director.gender, b.director.gender)
+                                        })
+                                        .attr("class", "individualData");
+
+  individualDataGroup.append("rect")
+              .attr("x", 0)
+              .attr("y", 0)
+              .attr("width", 30)
+              .attr("height", yPos)
+              .attr("fill", function(d,i){
+                if (d.director.gender == "male"){
+                  return "DodgerBlue"
+                } else {
+                  return "deeppink"
+                }
+              })
+              .attr("stroke-width", 1)
+              .attr("stroke", "white")
+              .on("mouseover", function(event, d){
+                label.transition()
+                      .delay(300)
+                      .style("opacity", 1)
+                ;
+                label.attr("transform", "translate("+xScale(d.year)+","+(event.clientY-50)+")")
+                      .raise()
+                ;
+                label.selectAll(".directorName").text("Direcotr: " + d.director.director_name);
+                label.selectAll(".movieName").text("Movie: " + d.movie_name);
+                label.selectAll(".poster").attr("xlink:href", d.poster)
+              })
+              .on("mouseout", function(event, d){
+                label.transition()
+                      .delay(300)
+                      .style("opacity", 0)
+                ;
+              })
+  ;
+  individualDataGroup.attr("transform", function(d, i){
+    let x = 0;
+    let yearLength = getYearLength(d);
+    let height = graphHeight/yearLength;
+    let y = -height - i * height;
+    return "translate("+x+","+y+")"
+  })
+
+  //hover labels
+  // // console.log(d3.select(this.parent))
+  // // console.log(d3.select(this))
+  // // console.log(d3.select(this.parentNode).attr("transform"))
+  // // console.log(xScale(d.year))
+  // console.log(d3.pointer(event))
+  // label.html("Director: " + d.director.director_name + "<br/>" + "Movie: " + d.movie_name)
+  //         .style("width", 300+"px")
+  //         .attr("transform", function(d){
+  //           // let x = xScale(d.year)
+  //           // let y = event.clientY
+  //           return "translate(300, 200)"
+  //         })
+
+  // let movieCaption = viz.append("svg")
+  //                         .attr("class", "label")
+  //                         .attr("width", 20)
+  //                         .attr("height", 30)
+  //                         .attr("x", 10)
+  //                         .attr("y", 20)
+  //                         .attr("opacity", 0)
+  //                         .attr("background-color", "black")
+  // ;
+  // // movieCaption.append("rect")
+  // //               // .attr("x", 10)
+  // //               // .attr("y", 20)
+  // //               .attr("width", 50)
+  // //               .attr("height", 30)
+  // //               .attr("fill", "white")
+  // // ;
+  // // movieCaption.append("text")
+  // //               .text("movie")
+  // //               // .attr("x", 20)
+  // //               // .attr("y", 40)
+  // // ;
+  // // movieCaption.append("text")
+  // //               .text("director")
+  // //               // .attr("x", 20)
+  // //               // .attr("y", 60)
+  // // ;
+  // // movieCaption.append("img")
+  // //       .attr("xlink:href", "https://en.wikipedia.org//wiki/After_the_Battle_(film)")
+  // //       .attr("x", "60")
+  // //       .attr("y", "60")
+  // //       .attr("width", 60)
+  // //       .attr("height", 60)
+  // //       .attr("background-color", "black")
+  // // ;
+  // //hover effect
+  // individualDataGroup
+  // .on("mouseover", function(event, d){
+  //   d3.select(this)
+  //       .transition()
+  //       .delay(100)
+  //       .attr("opacity", 0.4)
+  //   ;
+  //   movieCaption.attr("opacity", 1)
+  //                 .attr("x", xScale(d.year))
+  //                 .attr("y", event.clientY)
+  // })
+  // .on("mouseout", function(event, d){
+  //   d3.select(this)
+  //       .transition()
+  //       .delay(100)
+  //       .attr("opacity", 1)
+  // ;
+  // movieCaption.attr("opacity", 0);
+  // })
 }
+
 function sortbyDirector(incomingData){
   // console.log(incomingData.length)
   let newData = [];
