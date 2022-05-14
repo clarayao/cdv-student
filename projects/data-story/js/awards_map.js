@@ -1,6 +1,6 @@
 let mapW = d3.select(".map-viz").style("width").split("px").shift();
 let mapH = mapW*2/3;
-let mapPadding = 0;
+let mapPadding = 100;
 
 let mapViz = d3.select(".map-viz").append("svg")
               .style("width", mapW)
@@ -83,14 +83,14 @@ d3.json("data/countries.geojson").then(function(geoData){
                   .attr("x", 0)
                   .attr("y", 0)
                   .attr("width", genderW)
-                  .attr("height", 160)
+                  .attr("height", padding)
                   .attr("fill", "#323232")
         ;
         mCaption.append("text")
         .attr("id", "mapCaption")
         .text(caption.text)
         .attr("x", mapW/2)
-        .attr("y", mapH/10)
+        .attr("y", padding*6/7)
         .attr("font-size", genderW/30+"px")
         .style("text-anchor", "middle")
         .style("font-family", "'Permanent Marker', cursive")

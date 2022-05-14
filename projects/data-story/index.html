@@ -11,7 +11,7 @@
     <!-- google font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Caption&family=Permanent+Marker&family=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Caption&family=Permanent+Marker&family=Titan+One&display=swap" rel="stylesheet">
 
     <!-- include the d3 library -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
@@ -144,15 +144,19 @@
               <div class="buttons-wrapper">
                 <div class="venice-button" id="selection-venice-button">
                   <input class="venice" type="image" src="image/venice-button.png">
+                  <div class="venice-caption">venice</div>
                 </div>
                 <div class="canne-button" id="selection-cannes-button">
                   <input class="canne" type="image" src="image/canne-button.png">
+                  <div class="canne-caption">cannes</div>
                 </div>
                 <div class="berlin-button" id="selection-berlin-button">
                   <input class="berlin" type="image" src="image/berlin-button.png">
+                  <div class="berlin-caption">berlin</div>
                 </div>
                 <div class="all-button" id="selection-all-button">
                   <input class="all" type="image" src="image/all-button.png">
+                  <div class="all-caption">all</div>
                 </div>
               </div>
             </div>
@@ -193,12 +197,6 @@
               <div class="invisible-buffer"></div>
               <div class="comparison-wrapper">
                 <div class="comparison-viz">
-                  <div class="comparison-jury-viz">
-                  </div>
-                  <div class="comparison-label">
-                  </div>
-                  <div class="comparison-selection-viz">
-                  </div>
                 </div>
                 <div class="comparison-text">
                   <div class="text ctext1">
@@ -227,15 +225,19 @@
               <div class="buttons-wrapper">
                 <div class="venice-button" id="jury-venice-button">
                   <input class="venice" type="image" src="image/venice-button.png">
+                  <div class="venice-caption">venice</div>
                 </div>
                 <div class="canne-button" id="jury-cannes-button">
                   <input class="canne" type="image" src="image/canne-button.png">
+                  <div class="canne-caption">cannes</div>
                 </div>
                 <div class="berlin-button" id="jury-berlin-button">
                   <input class="berlin" type="image" src="image/berlin-button.png">
+                  <div class="berlin-caption">berlin</div>
                 </div>
                 <div class="all-button" id="jury-all-button">
                   <input class="all" type="image" src="image/all-button.png">
+                  <div class="all-caption">all</div>
                 </div>
               </div>
             </div>
@@ -247,7 +249,9 @@
       <!-- <div class="invisible-buffer"></div> -->
       <div class="ending-wrapper">
         <p>Having introduced the diversity of the "Big Three" film festivals using the data of the last decade, hopefully you have had a glimpe of the concerning diversity of these 3 biggest film festivals in the world. Based on the diversity of gender and geographical region of the nominated directors and juries, we can see that some parts of the world and female directors are still underrepresented in the film industry. As we're living in this world full of intertainments, it's highly crucial to have the underrepresented to speak out so that they aren't swallowed by the massive flow of information. </p>
-        <p id="last-sentence">We are all looking forward to the day when the film industry would let more underrepresented people to tell the stories and let the public hear their voice.</p>
+        <div class="invisible-buffer"></div>
+        <p id="last-sentence">We are all looking forward to the day when the film industry would let more underrepresented people to tell their stories and let the public hear their voice.</p>
+        <div class="invisible-buffer"></div>
         <!-- <div class="ending-img">
           <img src="image/ending.png">
         </div> -->
@@ -264,8 +268,7 @@
     <script type="text/javascript" src="js/awards_map.js"></script>
     <script type="text/javascript" src="js/awards_intersection.js"></script>
     <script type="text/javascript" src="js/jury_only.js"></script>
-    <script type="text/javascript" src="js/comparison-jury.js"></script>
-    <script type="text/javascript" src="js/comparison-selection.js"></script>
+    <script type="text/javascript" src="js/comparison.js"></script>
     <!-- <script type="text/javascript" src="js/script.js"></script> -->
   </body>
 </html>

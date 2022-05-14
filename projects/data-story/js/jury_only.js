@@ -10,7 +10,7 @@ let juryText = [
   {"text": 'All Juries of the "Big Three" Film Festivals'},
   {"text": 'All Juries of the Venice Film Festival'},
   {"text": 'All Juries of the Cannes Film Festival'},
-  {"text": 'All Juries of the Venice Film Festival'}
+  {"text": 'All Juries of the Berlin Film Festival'}
 ];
 
 let juryViz = d3.select(".jury-only-viz")
@@ -89,14 +89,14 @@ d3.json("data/continent-country.json").then(function(continentData){
                 .attr("x", 0)
                 .attr("y", 0)
                 .attr("width", juryW)
-                .attr("height", 160)
+                .attr("height", juryYpadding)
                 .attr("fill", "#323232")
       ;
       joCaption.append("text")
       .attr("id", "intCaption")
       .text(caption.text)
       .attr("x", juryW/2)
-      .attr("y", 150)
+      .attr("y", juryYpadding*6/7)
       .attr("font-size", juryW/30+"px")
       .style("text-anchor", "middle")
       .style("font-family", "'Permanent Marker', cursive")

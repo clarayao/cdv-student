@@ -114,14 +114,14 @@ d3.json("data/continent-country.json").then(function(continentData){
                 .attr("x", 0)
                 .attr("y", 0)
                 .attr("width", intersectionW)
-                .attr("height", 160)
+                .attr("height", intersectionPadding)
                 .attr("fill", "#323232")
       ;
       iCaption.append("text")
       .attr("id", "intCaption")
       .text(caption.text)
       .attr("x", intersectionW/2)
-      .attr("y", 150)
+      .attr("y", intersectionPadding*6/7)
       .attr("font-size", intersectionW/30+"px")
       .style("text-anchor", "middle")
       .style("font-family", "'Permanent Marker', cursive")
@@ -167,7 +167,7 @@ d3.json("data/continent-country.json").then(function(continentData){
                             intLabel.attr("transform", "translate("+(xScale(d.year))+","+mousePos[1]+")")
                                   .raise()
                             ;
-                            intLabel.selectAll(".directorName").text("Direcotr: " + d.director.director_name);
+                            intLabel.selectAll(".directorName").text("Director: " + d.director.director_name);
                             intLabel.selectAll(".movieName").text("Movie: " + d.movie_name);
                             intLabel.selectAll(".poster").attr("xlink:href", d.poster)
                           })

@@ -11,7 +11,7 @@ let text = [
   {"text": 'All Directors Who Won in the "Big Three" Film Festivals'},
   {"text": 'Directors Nominated in the Venice Film Festival'},
   {"text": 'Directors Nominated in the Cannes Film Festival'},
-  {"text": 'Directors Nominated in the Venice Film Festival'}
+  {"text": 'Directors Nominated in the Berlin Film Festival'}
 ];
 
 let genderViz = d3.select(".gender-viz")
@@ -94,14 +94,14 @@ function gotData(incomingData) {
               .attr("x", 0)
               .attr("y", 0)
               .attr("width", genderW)
-              .attr("height", 160)
+              .attr("height", padding)
               .attr("fill", "#323232")
     ;
     gCaption.append("text")
     .attr("id", "genderCaption")
     .text(caption.text)
     .attr("x", genderW/2)
-    .attr("y", 150)
+    .attr("y", padding*6/7)
     .attr("font-size", genderW/30+"px")
     .style("text-anchor", "middle")
     .style("font-family", "'Permanent Marker', cursive")
@@ -189,7 +189,7 @@ function gotData(incomingData) {
                     }
                     // return 60
                   })
-                  label.selectAll(".directorName").text("Direcotr: " + d.director.director_name);
+                  label.selectAll(".directorName").text("Director: " + d.director.director_name);
                   label.selectAll(".movieName").text("Movie: " + d.movie_name);
                   label.selectAll(".poster").attr("xlink:href", d.poster)
                 })
