@@ -1,5 +1,5 @@
 # Data Story
-## The Project: Whose Stories Get to Be Heard?
+## The Project: "Whose Stories Get to Be Heard?"
 
  - Link to the [project](https://clarayao.github.io/cdv-student/projects/data-story/).
  - ![A Snippet of the Project](image/data-story.gif)
