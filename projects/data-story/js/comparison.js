@@ -224,6 +224,7 @@ d3.json("data/continent-country.json").then(function(continentData){
   })
 })
 
+//selection graph
 d3.json("data/continent-country.json").then(function(continentData){
   d3.json("data/awards.json").then(function(incomingData){
     // console.log(incomingData);
@@ -289,7 +290,7 @@ d3.json("data/continent-country.json").then(function(continentData){
 
       enteringElements.append("circle")
                           .attr("class", "datapoint")
-                          .attr("r", 4)
+                          .attr("r", 3)
                           .attr("fill", function(d,i){
                             if (d.director.gender == "male"){
                               return "DodgerBlue"
@@ -340,7 +341,7 @@ d3.json("data/continent-country.json").then(function(continentData){
                           .force("forceY", d3.forceY(function(d){
                             return continentScale(d.continent)+continentScale.bandwidth()/2
                           }))
-                          .force("collide", d3.forceCollide(5))
+                          .force("collide", d3.forceCollide(4))
                           .on("tick", simulationRan)
       ;
       function simulationRan(){
